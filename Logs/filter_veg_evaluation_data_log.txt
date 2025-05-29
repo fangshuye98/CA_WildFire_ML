@@ -1,0 +1,115 @@
+Log messages for filtering veg types: 2025-05-13 21:40:29.686143
+Processing year: 2002
+Data shape before filtering veg types for year 2002: (6287119, 35)
+Dropped veg type: Agriculture  from year 2002
+Dropped veg type: Urban  from year 2002
+Dropped veg type: Water  from year 2002
+Data shape after filtering veg types for year 2002: (5090818, 35)
+Processing year: 2003
+Data shape before filtering veg types for year 2003: (6283220, 35)
+Dropped veg type: Agriculture  from year 2003
+Dropped veg type: Urban  from year 2003
+Dropped veg type: Water  from year 2003
+Data shape after filtering veg types for year 2003: (5086596, 35)
+Processing year: 2004
+Data shape before filtering veg types for year 2004: (6302117, 35)
+Dropped veg type: Agriculture  from year 2004
+Dropped veg type: Urban  from year 2004
+Dropped veg type: Water  from year 2004
+Data shape after filtering veg types for year 2004: (5102917, 35)
+Processing year: 2005
+Data shape before filtering veg types for year 2005: (6256879, 35)
+Dropped veg type: Agriculture  from year 2005
+Dropped veg type: Urban  from year 2005
+Dropped veg type: Water  from year 2005
+Data shape after filtering veg types for year 2005: (5078201, 35)
+Processing year: 2006
+Data shape before filtering veg types for year 2006: (6233333, 35)
+Dropped veg type: Agriculture  from year 2006
+Dropped veg type: Urban  from year 2006
+Dropped veg type: Water  from year 2006
+Data shape after filtering veg types for year 2006: (5061070, 35)
+Processing year: 2007
+Data shape before filtering veg types for year 2007: (6172103, 35)
+Dropped veg type: Agriculture  from year 2007
+Dropped veg type: Urban  from year 2007
+Dropped veg type: Water  from year 2007
+Data shape after filtering veg types for year 2007: (5025165, 35)
+Processing year: 2008
+Data shape before filtering veg types for year 2008: (6192084, 35)
+Dropped veg type: Agriculture  from year 2008
+Dropped veg type: Urban  from year 2008
+Dropped veg type: Water  from year 2008
+Data shape after filtering veg types for year 2008: (5032980, 35)
+Processing year: 2009
+Data shape before filtering veg types for year 2009: (6198486, 35)
+Dropped veg type: Agriculture  from year 2009
+Dropped veg type: Urban  from year 2009
+Dropped veg type: Water  from year 2009
+Data shape after filtering veg types for year 2009: (5039643, 35)
+Processing year: 2010
+Data shape before filtering veg types for year 2010: (6221625, 35)
+Dropped veg type: Agriculture  from year 2010
+Dropped veg type: Urban  from year 2010
+Dropped veg type: Water  from year 2010
+Data shape after filtering veg types for year 2010: (5055280, 35)
+Processing year: 2011
+Data shape before filtering veg types for year 2011: (6214792, 35)
+Dropped veg type: Agriculture  from year 2011
+Dropped veg type: Urban  from year 2011
+Dropped veg type: Water  from year 2011
+Data shape after filtering veg types for year 2011: (5049084, 35)
+Processing year: 2012
+Data shape before filtering veg types for year 2012: (6218378, 35)
+Dropped veg type: Agriculture  from year 2012
+Dropped veg type: Urban  from year 2012
+Dropped veg type: Water  from year 2012
+Data shape after filtering veg types for year 2012: (5044570, 35)
+Processing year: 2013
+Data shape before filtering veg types for year 2013: (6244348, 35)
+Dropped veg type: Agriculture  from year 2013
+Dropped veg type: Urban  from year 2013
+Dropped veg type: Water  from year 2013
+Data shape after filtering veg types for year 2013: (5060085, 35)
+Processing year: 2014
+Data shape before filtering veg types for year 2014: (6274804, 35)
+Dropped veg type: Agriculture  from year 2014
+Dropped veg type: Urban  from year 2014
+Dropped veg type: Water  from year 2014
+Data shape after filtering veg types for year 2014: (5081702, 35)
+Processing year: 2015
+Data shape before filtering veg types for year 2015: (6273525, 35)
+Dropped veg type: Agriculture  from year 2015
+Dropped veg type: Urban  from year 2015
+Dropped veg type: Water  from year 2015
+Data shape after filtering veg types for year 2015: (5079558, 35)
+Processing year: 2016
+Data shape before filtering veg types for year 2016: (6274521, 35)
+Dropped veg type: Agriculture  from year 2016
+Dropped veg type: Urban  from year 2016
+Dropped veg type: Water  from year 2016
+Data shape after filtering veg types for year 2016: (5089978, 35)
+Processing year: 2017
+Data shape before filtering veg types for year 2017: (6249732, 35)
+Dropped veg type: Agriculture  from year 2017
+Dropped veg type: Urban  from year 2017
+Dropped veg type: Water  from year 2017
+Data shape after filtering veg types for year 2017: (5069788, 35)
+Processing year: 2018
+Data shape before filtering veg types for year 2018: (6242432, 35)
+Dropped veg type: Agriculture  from year 2018
+Dropped veg type: Urban  from year 2018
+Dropped veg type: Water  from year 2018
+Data shape after filtering veg types for year 2018: (5067415, 35)
+Processing year: 2019
+Data shape before filtering veg types for year 2019: (6243790, 35)
+Dropped veg type: Agriculture  from year 2019
+Dropped veg type: Urban  from year 2019
+Dropped veg type: Water  from year 2019
+Data shape after filtering veg types for year 2019: (5067521, 35)
+Processing year: 2020
+Data shape before filtering veg types for year 2020: (6214608, 35)
+Dropped veg type: Agriculture  from year 2020
+Dropped veg type: Urban  from year 2020
+Dropped veg type: Water  from year 2020
+Data shape after filtering veg types for year 2020: (5049484, 35)

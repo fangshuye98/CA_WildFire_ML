@@ -1,0 +1,14 @@
+From 2001 to 2006, nunique year is 6, using for modeling
+From 2002 to 2007, nunique year is 6, using for modeling
+From 2003 to 2008, nunique year is 6, using for modeling
+From 2004 to 2009, nunique year is 6, using for modeling
+From 2005 to 2010, nunique year is 6, using for modeling
+From 2006 to 2011, nunique year is 6, using for modeling
+From 2007 to 2012, nunique year is 6, using for modeling
+From 2008 to 2013, nunique year is 6, using for modeling
+From 2009 to 2014, nunique year is 6, using for modeling
+From 2010 to 2015, nunique year is 6, using for modeling
+From 2011 to 2016, nunique year is 6, using for modeling
+From 2012 to 2017, nunique year is 6, using for modeling
+From 2013 to 2018, nunique year is 6, using for modeling
+From 2014 to 2019, nunique year is 6, using for modeling

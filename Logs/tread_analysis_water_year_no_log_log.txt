@@ -1,0 +1,70 @@
+Climate change evaluation
+Start time: 2025-05-28 21:47:13.510383
+The following variables are fixed at the average level for the climate change evaluation:
+dead_fuel_moisture_1000hr
+dead_fuel_moisture_100hr
+max_air_temperature
+max_relative_humidity
+min_air_temperature
+min_relative_humidity
+precipitation_amount
+specific_humidity
+surface_downwelling_shortwave_flux_in_air
+SWE
+pdsi
+--------------------------------------------------
+Shape of Eval_data for year 2007: (5025165, 57)
+Common columns between reference weather and year 2007: {'lon', 'lat', 'date'}
+Shape of Eval_data after merging with reference weather for year 2007: (5025165, 57)
+--------------------------------------------------
+Shape of Eval_data for year 2008: (5032980, 57)
+Common columns between reference weather and year 2008: {'lon', 'lat', 'date'}
+Shape of Eval_data after merging with reference weather for year 2008: (5032980, 57)
+--------------------------------------------------
+Shape of Eval_data for year 2009: (5039643, 57)
+Common columns between reference weather and year 2009: {'lon', 'lat', 'date'}
+Shape of Eval_data after merging with reference weather for year 2009: (5039643, 57)
+--------------------------------------------------
+Shape of Eval_data for year 2010: (5055280, 57)
+Common columns between reference weather and year 2010: {'lon', 'lat', 'date'}
+Shape of Eval_data after merging with reference weather for year 2010: (5055280, 57)
+--------------------------------------------------
+Shape of Eval_data for year 2011: (5049084, 57)
+Common columns between reference weather and year 2011: {'lon', 'lat', 'date'}
+Shape of Eval_data after merging with reference weather for year 2011: (5049084, 57)
+--------------------------------------------------
+Shape of Eval_data for year 2012: (5044570, 57)
+Common columns between reference weather and year 2012: {'lon', 'lat', 'date'}
+Shape of Eval_data after merging with reference weather for year 2012: (5044570, 57)
+--------------------------------------------------
+Shape of Eval_data for year 2013: (5060085, 57)
+Common columns between reference weather and year 2013: {'lon', 'lat', 'date'}
+Shape of Eval_data after merging with reference weather for year 2013: (5060085, 57)
+--------------------------------------------------
+Shape of Eval_data for year 2014: (5081702, 57)
+Common columns between reference weather and year 2014: {'lon', 'lat', 'date'}
+Shape of Eval_data after merging with reference weather for year 2014: (5081702, 57)
+--------------------------------------------------
+Shape of Eval_data for year 2015: (5079558, 57)
+Common columns between reference weather and year 2015: {'lon', 'lat', 'date'}
+Shape of Eval_data after merging with reference weather for year 2015: (5079558, 57)
+--------------------------------------------------
+Shape of Eval_data for year 2016: (5089978, 57)
+Common columns between reference weather and year 2016: {'lon', 'lat', 'date'}
+Shape of Eval_data after merging with reference weather for year 2016: (5089978, 57)
+--------------------------------------------------
+Shape of Eval_data for year 2017: (5069788, 57)
+Common columns between reference weather and year 2017: {'lon', 'lat', 'date'}
+Shape of Eval_data after merging with reference weather for year 2017: (5069788, 57)
+--------------------------------------------------
+Shape of Eval_data for year 2018: (5067415, 57)
+Common columns between reference weather and year 2018: {'lon', 'lat', 'date'}
+Shape of Eval_data after merging with reference weather for year 2018: (5067415, 57)
+--------------------------------------------------
+Shape of Eval_data for year 2019: (5067521, 57)
+Common columns between reference weather and year 2019: {'lon', 'lat', 'date'}
+Shape of Eval_data after merging with reference weather for year 2019: (5067521, 57)
+--------------------------------------------------
+Shape of Eval_data for year 2020: (5049484, 57)
+Common columns between reference weather and year 2020: {'lon', 'lat', 'date'}
+Shape of Eval_data after merging with reference weather for year 2020: (5049484, 57)

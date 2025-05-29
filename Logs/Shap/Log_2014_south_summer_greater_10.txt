@@ -1,0 +1,12 @@
+Parameters: eval_year=2014, area=south, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=10, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+Month column is added
+The unique values of month are: [5 6 7 8]
+The unique values of year are: [2014]
+The min and max lat are: 32.525000000000006, 35.733333333333334
+The wind speed is not filtered
+The fire size is filtered
+The min and max fire size are: 11.0, 4045.0
+The fire event is filtered
+The shape of data is: (14, 58)
+The mean of IS_FIRE is: 1.0
+The count of IS_FIRE is: 14

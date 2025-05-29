@@ -1,0 +1,11 @@
+Parameters: eval_year=2007, area=south, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=1, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1  2  3]
+The min and max day are: 2006-10-01 00:00:00, 2007-03-31 00:00:00
+The min and max lat are: 32.525000000000006, 35.733333333333334
+The wind speed is not filtered
+The fire size is filtered
+The min and max fire size are: 1.5, 40200.0
+The fire event is filtered
+The shape of data is: (111, 60)
+The mean of IS_FIRE is: 1.0
+The count of IS_FIRE is: 111

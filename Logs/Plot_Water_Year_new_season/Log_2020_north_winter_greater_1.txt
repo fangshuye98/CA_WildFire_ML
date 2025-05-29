@@ -1,0 +1,11 @@
+Parameters: eval_year=2020, area=north, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=1, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12]
+The min and max day are: 2019-10-01 00:00:00, 2019-12-31 00:00:00
+The min and max lat are: 35.775000000000006, 41.98333333333333
+The wind speed is not filtered
+The fire size is filtered
+The min and max fire size are: 1.1, 5667.0
+The fire event is filtered
+The shape of data is: (69, 60)
+The mean of IS_FIRE is: 1.0
+The count of IS_FIRE is: 69
