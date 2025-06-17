@@ -1,0 +1,33 @@
+Task: Merge weather data after veg and subregion filtering
+Processing started on: 2025-06-15 14:35:42
+Loaded SWE.parquet with shape: (128679376, 5)
+Merged dead_fuel_moisture_1000h.parquet with shape: (142966936, 4) into all_features, new shape: (127478960, 6)
+Merged dead_fuel_moisture_100h.parquet with shape: (142966936, 4) into all_features, new shape: (127478960, 7)
+Merged max_air_temperature.parquet with shape: (142966936, 4) into all_features, new shape: (127478960, 8)
+Merged max_relative_humidity.parquet with shape: (142966936, 4) into all_features, new shape: (127478960, 9)
+Merged min_air_temperature.parquet with shape: (142966936, 4) into all_features, new shape: (127478960, 10)
+Merged min_relative_humidity.parquet with shape: (142966936, 4) into all_features, new shape: (127478960, 11)
+Merged precipitation_amount.parquet with shape: (142966936, 4) into all_features, new shape: (127478960, 12)
+Merged specific_humidity.parquet with shape: (142966936, 4) into all_features, new shape: (127478960, 13)
+Merged surface_downwelling_shortwave_flux.parquet with shape: (142966936, 4) into all_features, new shape: (127478960, 14)
+Merged wind_from_direction.parquet with shape: (142966936, 4) into all_features, new shape: (127478960, 15)
+Merged wind_speed.parquet with shape: (142966936, 4) into all_features, new shape: (127478960, 16)
+Saved merged weather DataFrame to ../../Clean_Data/Extended_Feature_Data//Weather_Data_w_Veg_SubRegion_Filter_Merged.parquet
+Minimum date in the dataset: 1994-01-01
+Maximum date in the dataset: 2020-09-30
+Missing rate for day: 0.00%
+Missing rate for lat: 0.00%
+Missing rate for lon: 0.00%
+Missing rate for SWE: 1.71%
+Missing rate for year: 0.00%
+Missing rate for dead_fuel_moisture_1000hr: 0.17%
+Missing rate for dead_fuel_moisture_100hr: 0.17%
+Missing rate for max_air_temperature: 0.12%
+Missing rate for max_relative_humidity: 0.17%
+Missing rate for min_air_temperature: 0.12%
+Missing rate for min_relative_humidity: 0.17%
+Missing rate for precipitation_amount: 57.37%
+Missing rate for specific_humidity: 0.17%
+Missing rate for surface_downwelling_shortwave_flux_in_air: 0.17%
+Missing rate for wind_from_direction: 0.27%
+Missing rate for wind_speed: 0.17%

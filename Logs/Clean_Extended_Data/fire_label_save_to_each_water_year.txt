@@ -1,0 +1,79 @@
+Log messages for processing water years: 2025-06-15 20:03:20.273843
+--------------------------------------------------
+Processed water year 1995: 4720417 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_1995.parquet
+Water year 1995 - Min day: 1994-10-01 00:00:00, Max day: 1995-09-30 00:00:00
+--------------------------------------------------
+Processed water year 1996: 4716571 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_1996.parquet
+Water year 1996 - Min day: 1995-10-01 00:00:00, Max day: 1996-09-30 00:00:00
+--------------------------------------------------
+Processed water year 1997: 4710850 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_1997.parquet
+Water year 1997 - Min day: 1996-10-01 00:00:00, Max day: 1997-09-30 00:00:00
+--------------------------------------------------
+Processed water year 1998: 4731983 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_1998.parquet
+Water year 1998 - Min day: 1997-10-01 00:00:00, Max day: 1998-09-30 00:00:00
+--------------------------------------------------
+Processed water year 1999: 4721069 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_1999.parquet
+Water year 1999 - Min day: 1998-10-01 00:00:00, Max day: 1999-09-30 00:00:00
+--------------------------------------------------
+Processed water year 2000: 4754052 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_2000.parquet
+Water year 2000 - Min day: 1999-10-01 00:00:00, Max day: 2000-09-30 00:00:00
+--------------------------------------------------
+Processed water year 2001: 4747000 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_2001.parquet
+Water year 2001 - Min day: 2000-10-01 00:00:00, Max day: 2001-09-30 00:00:00
+--------------------------------------------------
+Processed water year 2002: 4747082 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_2002.parquet
+Water year 2002 - Min day: 2001-10-01 00:00:00, Max day: 2002-09-30 00:00:00
+--------------------------------------------------
+Processed water year 2003: 4748937 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_2003.parquet
+Water year 2003 - Min day: 2002-10-01 00:00:00, Max day: 2003-09-30 00:00:00
+--------------------------------------------------
+Processed water year 2004: 4759979 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_2004.parquet
+Water year 2004 - Min day: 2003-10-01 00:00:00, Max day: 2004-09-30 00:00:00
+--------------------------------------------------
+Processed water year 2005: 4742552 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_2005.parquet
+Water year 2005 - Min day: 2004-10-01 00:00:00, Max day: 2005-09-30 00:00:00
+--------------------------------------------------
+Processed water year 2006: 4734898 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_2006.parquet
+Water year 2006 - Min day: 2005-10-01 00:00:00, Max day: 2006-09-30 00:00:00
+--------------------------------------------------
+Processed water year 2007: 4704384 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_2007.parquet
+Water year 2007 - Min day: 2006-10-01 00:00:00, Max day: 2007-09-30 00:00:00
+--------------------------------------------------
+Processed water year 2008: 4715133 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_2008.parquet
+Water year 2008 - Min day: 2007-10-01 00:00:00, Max day: 2008-09-30 00:00:00
+--------------------------------------------------
+Processed water year 2009: 4721792 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_2009.parquet
+Water year 2009 - Min day: 2008-10-01 00:00:00, Max day: 2009-09-30 00:00:00
+--------------------------------------------------
+Processed water year 2010: 4731679 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_2010.parquet
+Water year 2010 - Min day: 2009-10-01 00:00:00, Max day: 2010-09-30 00:00:00
+--------------------------------------------------
+Processed water year 2011: 4727171 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_2011.parquet
+Water year 2011 - Min day: 2010-10-01 00:00:00, Max day: 2011-09-30 00:00:00
+--------------------------------------------------
+Processed water year 2012: 4736247 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_2012.parquet
+Water year 2012 - Min day: 2011-10-01 00:00:00, Max day: 2012-09-30 00:00:00
+--------------------------------------------------
+Processed water year 2013: 4744517 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_2013.parquet
+Water year 2013 - Min day: 2012-10-01 00:00:00, Max day: 2013-09-30 00:00:00
+--------------------------------------------------
+Processed water year 2014: 4746842 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_2014.parquet
+Water year 2014 - Min day: 2013-10-01 00:00:00, Max day: 2014-09-30 00:00:00
+--------------------------------------------------
+Processed water year 2015: 4746124 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_2015.parquet
+Water year 2015 - Min day: 2014-10-01 00:00:00, Max day: 2015-09-30 00:00:00
+--------------------------------------------------
+Processed water year 2016: 4753170 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_2016.parquet
+Water year 2016 - Min day: 2015-10-01 00:00:00, Max day: 2016-09-30 00:00:00
+--------------------------------------------------
+Processed water year 2017: 4741072 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_2017.parquet
+Water year 2017 - Min day: 2016-10-01 00:00:00, Max day: 2017-09-30 00:00:00
+--------------------------------------------------
+Processed water year 2018: 4738021 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_2018.parquet
+Water year 2018 - Min day: 2017-10-01 00:00:00, Max day: 2018-09-30 00:00:00
+--------------------------------------------------
+Processed water year 2019: 4739302 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_2019.parquet
+Water year 2019 - Min day: 2018-10-01 00:00:00, Max day: 2019-09-30 00:00:00
+--------------------------------------------------
+Processed water year 2020: 4742716 records saved to ../../Clean_Data/Model_Data/Evaluation/Fire_Label/Water_Year\calfire_fod_fpa_fire_label_wy_2020.parquet
+Water year 2020 - Min day: 2019-10-01 00:00:00, Max day: 2020-09-30 00:00:00

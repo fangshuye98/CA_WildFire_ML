@@ -1,0 +1,131 @@
+Log messages for processing water years feature merge label: 2025-06-15 21:03:09.927261
+==================================================
+Processing water year: 1995
+Feature w label data saved, min day: 1994-10-01 00:00:00, max day: 1995-09-30 00:00:00
+Data saved for year 1995 with shape: (4703262, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/1995_features_w_label.parquet
+==================================================
+Processing water year: 1996
+Feature w label data saved, min day: 1995-10-01 00:00:00, max day: 1996-09-30 00:00:00
+Data saved for year 1996 with shape: (4699385, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/1996_features_w_label.parquet
+==================================================
+Processing water year: 1997
+Feature w label data saved, min day: 1996-10-01 00:00:00, max day: 1997-09-30 00:00:00
+Data saved for year 1997 with shape: (4693711, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/1997_features_w_label.parquet
+==================================================
+Processing water year: 1998
+Feature w label data saved, min day: 1997-10-01 00:00:00, max day: 1998-09-30 00:00:00
+Data saved for year 1998 with shape: (4714847, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/1998_features_w_label.parquet
+==================================================
+Processing water year: 1999
+Feature w label data saved, min day: 1998-10-01 00:00:00, max day: 1999-09-30 00:00:00
+Data saved for year 1999 with shape: (4703945, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/1999_features_w_label.parquet
+==================================================
+Processing water year: 2000
+Feature w label data saved, min day: 1999-10-01 00:00:00, max day: 2000-09-30 00:00:00
+Data saved for year 2000 with shape: (4736858, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/2000_features_w_label.parquet
+==================================================
+Processing water year: 2001
+Feature w label data saved, min day: 2000-10-01 00:00:00, max day: 2001-09-30 00:00:00
+Data saved for year 2001 with shape: (4733613, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/2001_features_w_label.parquet
+==================================================
+Processing water year: 2002
+Feature w label data saved, min day: 2001-10-01 00:00:00, max day: 2002-09-30 00:00:00
+Data saved for year 2002 with shape: (4734891, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/2002_features_w_label.parquet
+==================================================
+Processing water year: 2003
+Feature w label data saved, min day: 2002-10-01 00:00:00, max day: 2003-09-30 00:00:00
+Data saved for year 2003 with shape: (4737424, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/2003_features_w_label.parquet
+==================================================
+Processing water year: 2004
+Feature w label data saved, min day: 2003-10-01 00:00:00, max day: 2004-09-30 00:00:00
+Data saved for year 2004 with shape: (4748570, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/2004_features_w_label.parquet
+==================================================
+Processing water year: 2005
+Feature w label data saved, min day: 2004-10-01 00:00:00, max day: 2005-09-30 00:00:00
+Data saved for year 2005 with shape: (4731884, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/2005_features_w_label.parquet
+==================================================
+Processing water year: 2006
+Feature w label data saved, min day: 2005-10-01 00:00:00, max day: 2006-09-30 00:00:00
+Data saved for year 2006 with shape: (4724236, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/2006_features_w_label.parquet
+==================================================
+Processing water year: 2007
+Feature w label data saved, min day: 2006-10-01 00:00:00, max day: 2007-09-30 00:00:00
+Data saved for year 2007 with shape: (4693207, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/2007_features_w_label.parquet
+==================================================
+Processing water year: 2008
+Feature w label data saved, min day: 2007-10-01 00:00:00, max day: 2008-09-30 00:00:00
+Data saved for year 2008 with shape: (4702545, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/2008_features_w_label.parquet
+==================================================
+Processing water year: 2009
+Feature w label data saved, min day: 2008-10-01 00:00:00, max day: 2009-09-30 00:00:00
+Data saved for year 2009 with shape: (4709848, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/2009_features_w_label.parquet
+==================================================
+Processing water year: 2010
+Feature w label data saved, min day: 2009-10-01 00:00:00, max day: 2010-09-30 00:00:00
+Data saved for year 2010 with shape: (4720797, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/2010_features_w_label.parquet
+==================================================
+Processing water year: 2011
+Feature w label data saved, min day: 2010-10-01 00:00:00, max day: 2011-09-30 00:00:00
+Data saved for year 2011 with shape: (4715943, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/2011_features_w_label.parquet
+==================================================
+Processing water year: 2012
+Feature w label data saved, min day: 2011-10-01 00:00:00, max day: 2012-09-30 00:00:00
+Data saved for year 2012 with shape: (4710806, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/2012_features_w_label.parquet
+==================================================
+Processing water year: 2013
+Feature w label data saved, min day: 2012-10-01 00:00:00, max day: 2013-09-30 00:00:00
+Data saved for year 2013 with shape: (4720365, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/2013_features_w_label.parquet
+==================================================
+Processing water year: 2014
+Feature w label data saved, min day: 2013-10-01 00:00:00, max day: 2014-09-30 00:00:00
+Data saved for year 2014 with shape: (4736373, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/2014_features_w_label.parquet
+==================================================
+Processing water year: 2015
+Feature w label data saved, min day: 2014-10-01 00:00:00, max day: 2015-09-30 00:00:00
+Data saved for year 2015 with shape: (4738623, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/2015_features_w_label.parquet
+==================================================
+Processing water year: 2016
+Feature w label data saved, min day: 2015-10-01 00:00:00, max day: 2016-09-30 00:00:00
+Data saved for year 2016 with shape: (4748416, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/2016_features_w_label.parquet
+==================================================
+Processing water year: 2017
+Feature w label data saved, min day: 2016-10-01 00:00:00, max day: 2017-09-30 00:00:00
+Data saved for year 2017 with shape: (4736351, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/2017_features_w_label.parquet
+==================================================
+Processing water year: 2018
+Feature w label data saved, min day: 2017-10-01 00:00:00, max day: 2018-09-30 00:00:00
+Data saved for year 2018 with shape: (4733293, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/2018_features_w_label.parquet
+==================================================
+Processing water year: 2019
+Feature w label data saved, min day: 2018-10-01 00:00:00, max day: 2019-09-30 00:00:00
+Data saved for year 2019 with shape: (4734565, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/2019_features_w_label.parquet
+==================================================
+Processing water year: 2020
+Feature w label data saved, min day: 2019-10-01 00:00:00, max day: 2020-09-30 00:00:00
+Data saved for year 2020 with shape: (4732622, 29)
+Saved path: ../../Clean_Data/Model_Data/Evaluation/Features_w_Label/Extended_Data_Water_Year/2020_features_w_label.parquet

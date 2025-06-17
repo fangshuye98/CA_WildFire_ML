@@ -1,0 +1,33 @@
+Task: Data cleaning on ../../Extended_Data/Ignition/ with matched weather grid
+Processing started on: 2025-06-15 11:52:13
+==================================================
+Include only human-caused ignitions.
+Original data shape: (232807, 37)
+Unique values in 'NWCG_CAUSE': ['Human' 'Natural' 'Missing data/not specified/undetermined']
+Filtered data shape: (167532, 37)
+Unique values in 'NWCG_CAUSE' after filtering: ['Human']
+==================================================
+Dedup based on selected columns.
+Columns kept: ['FOD_ID', 'FIRE_YEAR', 'DISCOVERY_', 'NWCG_CAUSE', 'NWCG_GENER', 'CONT_DATE', 'FIRE_SIZE', 'LATITUDE', 'LONGITUDE', 'STATE']
+Data shape after deduplication: (167532, 10)
+==================================================
+Check Dates columns.
+Renamed 'DISCOVERY_' to 'DISCOVERY_DATE' and converted to datetime.
+Converted 'CONT_DATE' to datetime format.
+Calculated 'day_diff' between 'CONT_DATE' and 'DISCOVERY_DATE'.
+Min day_diff: 0.0, Max day_diff: 335.0
+Quantiles of 'day_diff': {0.75: 0.0, 0.9: 0.0, 0.95: 1.0, 0.99: 4.0}
+Missing rate in 'DISCOVERY_DATE': 0.00%
+Missing rate in 'CONT_DATE': 44.24%
+Missing rate in 'CONT_DATE' after filling: 0.00%
+==================================================
+Dedup fire event baes on Lon, Lat, DISCOVERY_DATE and CONT_DATE.
+Shape of summary_fire after dedup: (164506, 8)
+Saved cleaned data to ../../Clean_Data/Fire_Data/Extended_Fire_Data/calfire_fod_fpa_1994_2020_dedup.parquet
+==================================================
+Match w weather gird from raw extended weather data.
+New columns added: NEAREST_LAT, NEAREST_LON, DISTANCE_KM
+Shape of summary_fire after matching: (164506, 11)
+Calculated distances between fire points and nearest weather grid points.
+Min distance: 0.000 km, Max distance: 3.013 km
+Saved cleaned data to ../../Clean_Data/Fire_Data/Extended_Fire_Data/calfire_fod_fpa_1994_2020_dedup.parquet

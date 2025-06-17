@@ -1,0 +1,39 @@
+Task: Feature cleaning and processing started on: 2025-06-15 17:14:58
+Input file: Weather_Data_w_Veg_SubRegion_Filter_Merged_Add_population_lai.parquet
+==================================================
+Wind direction categories is created with mapping: {'N': (337.5, 22.5), 'NE': (22.5, 67.5), 'E': (67.5, 112.5), 'SE': (112.5, 157.5), 'S': (157.5, 202.5), 'SW': (202.5, 247.5), 'W': (247.5, 292.5), 'NW': (292.5, 337.5)}
+Warning: Found 2080 rows where max_air_temperature is less than min_air_temperature.
+for those rows, max_air_temperature is set to min_air_temperature
+==================================================
+cols that are missing:
+precipitation_amount                         0.573698
+LAI                                          0.030399
+SWE                                          0.017091
+wind_direction_category                      0.002679
+wind_from_direction                          0.002679
+min_relative_humidity                        0.001678
+specific_humidity                            0.001678
+wind_speed                                   0.001678
+dead_fuel_moisture_1000hr                    0.001678
+dead_fuel_moisture_100hr                     0.001678
+max_relative_humidity                        0.001678
+surface_downwelling_shortwave_flux_in_air    0.001678
+min_air_temperature                          0.001169
+max_air_temperature                          0.001169
+population_density                           0.000766
+dtype: float64
+==================================================
+Deal with missing value
+Filled NA values in precipitation_amount, LAI, and population_density with 0.
+Filled NA values in SWE with 0.
+Removed rows with missing values in dead_fuel_moisture_1000hr column. Remaining rows: 127265012
+Removed rows with missing values in dead_fuel_moisture_100hr column. Remaining rows: 127265012
+Removed rows with missing values in max_relative_humidity column. Remaining rows: 127265012
+Removed rows with missing values in min_relative_humidity column. Remaining rows: 127265010
+Removed rows with missing values in specific_humidity column. Remaining rows: 127265010
+Removed rows with missing values in surface_downwelling_shortwave_flux_in_air column. Remaining rows: 127265010
+Removed rows with missing values in wind_speed column. Remaining rows: 127265010
+Removed rows with missing values in wind_from_direction column. Remaining rows: 127137467
+Removed rows with missing values in wind_direction_category column. Remaining rows: 127137467
+Removed rows with missing values in max_air_temperature column. Remaining rows: 127137467
+Removed rows with missing values in min_air_temperature column. Remaining rows: 127137467

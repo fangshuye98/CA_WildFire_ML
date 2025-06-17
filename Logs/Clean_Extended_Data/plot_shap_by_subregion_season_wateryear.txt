@@ -1,0 +1,2243 @@
+Current date and time: 2025-06-16 21:10:19.229771
+Season map: {'summer': [5, 6, 7, 8, 9], 'winter': [10, 11, 12, 1]}
+--------------------------------------------------
+Processing year: 2001, region: North Coast, season: summer
+Parameters: eval_year=2001, area=North Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+Year column is added
+Month column is added
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2001-05-01 00:00:00, 2001-09-30 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (505, 52)
+The sum of IS_FIRE is: 505
+The mean of IS_FIRE is: 1.0
+Processing year: 2001, region: North Coast, season: winter
+Parameters: eval_year=2001, area=North Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2000-10-01 00:00:00, 2001-01-31 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (95, 52)
+The sum of IS_FIRE is: 95
+The mean of IS_FIRE is: 1.0
+Processing year: 2001, region: Central Coast, season: summer
+Parameters: eval_year=2001, area=Central Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2001-05-01 00:00:00, 2001-09-30 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (1119, 52)
+The sum of IS_FIRE is: 1119
+The mean of IS_FIRE is: 1.0
+Processing year: 2001, region: Central Coast, season: winter
+Parameters: eval_year=2001, area=Central Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2000-10-01 00:00:00, 2001-01-31 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (151, 52)
+The sum of IS_FIRE is: 151
+The mean of IS_FIRE is: 1.0
+Processing year: 2001, region: North Interior, season: summer
+Parameters: eval_year=2001, area=North Interior, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2001-05-01 00:00:00, 2001-09-30 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (140, 52)
+The sum of IS_FIRE is: 140
+The mean of IS_FIRE is: 1.0
+Processing year: 2001, region: North Interior, season: winter
+Parameters: eval_year=2001, area=North Interior, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2000-10-01 00:00:00, 2001-01-31 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (17, 52)
+The sum of IS_FIRE is: 17
+The mean of IS_FIRE is: 1.0
+Processing year: 2001, region: Sierra Nevada, season: summer
+Parameters: eval_year=2001, area=Sierra Nevada, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2001-05-01 00:00:00, 2001-09-30 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (635, 52)
+The sum of IS_FIRE is: 635
+The mean of IS_FIRE is: 1.0
+Processing year: 2001, region: Sierra Nevada, season: winter
+Parameters: eval_year=2001, area=Sierra Nevada, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2000-10-01 00:00:00, 2001-01-31 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (121, 52)
+The sum of IS_FIRE is: 121
+The mean of IS_FIRE is: 1.0
+Processing year: 2001, region: South Coast, season: summer
+Parameters: eval_year=2001, area=South Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2001-05-01 00:00:00, 2001-09-30 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (594, 52)
+The sum of IS_FIRE is: 594
+The mean of IS_FIRE is: 1.0
+Processing year: 2001, region: South Coast, season: winter
+Parameters: eval_year=2001, area=South Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2000-10-01 00:00:00, 2001-01-31 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (225, 52)
+The sum of IS_FIRE is: 225
+The mean of IS_FIRE is: 1.0
+Processing year: 2002, region: North Coast, season: summer
+Parameters: eval_year=2002, area=North Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+Year column is added
+Month column is added
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2002-05-01 00:00:00, 2002-09-30 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (436, 52)
+The sum of IS_FIRE is: 436
+The mean of IS_FIRE is: 1.0
+Processing year: 2002, region: North Coast, season: winter
+Parameters: eval_year=2002, area=North Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2001-10-01 00:00:00, 2002-01-31 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (93, 52)
+The sum of IS_FIRE is: 93
+The mean of IS_FIRE is: 1.0
+Processing year: 2002, region: Central Coast, season: summer
+Parameters: eval_year=2002, area=Central Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2002-05-01 00:00:00, 2002-09-30 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (1050, 52)
+The sum of IS_FIRE is: 1050
+The mean of IS_FIRE is: 1.0
+Processing year: 2002, region: Central Coast, season: winter
+Parameters: eval_year=2002, area=Central Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2001-10-01 00:00:00, 2002-01-31 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (150, 52)
+The sum of IS_FIRE is: 150
+The mean of IS_FIRE is: 1.0
+Processing year: 2002, region: North Interior, season: summer
+Parameters: eval_year=2002, area=North Interior, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2002-05-01 00:00:00, 2002-09-30 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (122, 52)
+The sum of IS_FIRE is: 122
+The mean of IS_FIRE is: 1.0
+Processing year: 2002, region: North Interior, season: winter
+Parameters: eval_year=2002, area=North Interior, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2001-10-01 00:00:00, 2002-01-31 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (20, 52)
+The sum of IS_FIRE is: 20
+The mean of IS_FIRE is: 1.0
+Processing year: 2002, region: Sierra Nevada, season: summer
+Parameters: eval_year=2002, area=Sierra Nevada, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2002-05-01 00:00:00, 2002-09-30 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (587, 52)
+The sum of IS_FIRE is: 587
+The mean of IS_FIRE is: 1.0
+Processing year: 2002, region: Sierra Nevada, season: winter
+Parameters: eval_year=2002, area=Sierra Nevada, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2001-10-01 00:00:00, 2002-01-31 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (118, 52)
+The sum of IS_FIRE is: 118
+The mean of IS_FIRE is: 1.0
+Processing year: 2002, region: South Coast, season: summer
+Parameters: eval_year=2002, area=South Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2002-05-01 00:00:00, 2002-09-30 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (533, 52)
+The sum of IS_FIRE is: 533
+The mean of IS_FIRE is: 1.0
+Processing year: 2002, region: South Coast, season: winter
+Parameters: eval_year=2002, area=South Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2001-10-01 00:00:00, 2002-01-31 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (207, 52)
+The sum of IS_FIRE is: 207
+The mean of IS_FIRE is: 1.0
+Processing year: 2003, region: North Coast, season: summer
+Parameters: eval_year=2003, area=North Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+Year column is added
+Month column is added
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2003-05-01 00:00:00, 2003-09-30 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (413, 52)
+The sum of IS_FIRE is: 413
+The mean of IS_FIRE is: 1.0
+Processing year: 2003, region: North Coast, season: winter
+Parameters: eval_year=2003, area=North Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2002-10-01 00:00:00, 2003-01-31 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (121, 52)
+The sum of IS_FIRE is: 121
+The mean of IS_FIRE is: 1.0
+Processing year: 2003, region: Central Coast, season: summer
+Parameters: eval_year=2003, area=Central Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2003-05-01 00:00:00, 2003-09-30 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (990, 52)
+The sum of IS_FIRE is: 990
+The mean of IS_FIRE is: 1.0
+Processing year: 2003, region: Central Coast, season: winter
+Parameters: eval_year=2003, area=Central Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2002-10-01 00:00:00, 2003-01-31 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (157, 52)
+The sum of IS_FIRE is: 157
+The mean of IS_FIRE is: 1.0
+Processing year: 2003, region: North Interior, season: summer
+Parameters: eval_year=2003, area=North Interior, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2003-05-01 00:00:00, 2003-09-30 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (156, 52)
+The sum of IS_FIRE is: 156
+The mean of IS_FIRE is: 1.0
+Processing year: 2003, region: North Interior, season: winter
+Parameters: eval_year=2003, area=North Interior, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2002-10-01 00:00:00, 2003-01-31 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (29, 52)
+The sum of IS_FIRE is: 29
+The mean of IS_FIRE is: 1.0
+Processing year: 2003, region: Sierra Nevada, season: summer
+Parameters: eval_year=2003, area=Sierra Nevada, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2003-05-01 00:00:00, 2003-09-30 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (473, 52)
+The sum of IS_FIRE is: 473
+The mean of IS_FIRE is: 1.0
+Processing year: 2003, region: Sierra Nevada, season: winter
+Parameters: eval_year=2003, area=Sierra Nevada, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2002-10-01 00:00:00, 2003-01-31 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (155, 52)
+The sum of IS_FIRE is: 155
+The mean of IS_FIRE is: 1.0
+Processing year: 2003, region: South Coast, season: summer
+Parameters: eval_year=2003, area=South Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2003-05-01 00:00:00, 2003-09-30 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (560, 52)
+The sum of IS_FIRE is: 560
+The mean of IS_FIRE is: 1.0
+Processing year: 2003, region: South Coast, season: winter
+Parameters: eval_year=2003, area=South Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2002-10-01 00:00:00, 2003-01-31 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (155, 52)
+The sum of IS_FIRE is: 155
+The mean of IS_FIRE is: 1.0
+Processing year: 2004, region: North Coast, season: summer
+Parameters: eval_year=2004, area=North Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+Year column is added
+Month column is added
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2004-05-01 00:00:00, 2004-09-30 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (448, 52)
+The sum of IS_FIRE is: 448
+The mean of IS_FIRE is: 1.0
+Processing year: 2004, region: North Coast, season: winter
+Parameters: eval_year=2004, area=North Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2003-10-01 00:00:00, 2004-01-31 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (102, 52)
+The sum of IS_FIRE is: 102
+The mean of IS_FIRE is: 1.0
+Processing year: 2004, region: Central Coast, season: summer
+Parameters: eval_year=2004, area=Central Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2004-05-01 00:00:00, 2004-09-30 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (1091, 52)
+The sum of IS_FIRE is: 1091
+The mean of IS_FIRE is: 1.0
+Processing year: 2004, region: Central Coast, season: winter
+Parameters: eval_year=2004, area=Central Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2003-10-01 00:00:00, 2004-01-31 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (216, 52)
+The sum of IS_FIRE is: 216
+The mean of IS_FIRE is: 1.0
+Processing year: 2004, region: North Interior, season: summer
+Parameters: eval_year=2004, area=North Interior, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2004-05-01 00:00:00, 2004-09-30 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (120, 52)
+The sum of IS_FIRE is: 120
+The mean of IS_FIRE is: 1.0
+Processing year: 2004, region: North Interior, season: winter
+Parameters: eval_year=2004, area=North Interior, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2003-10-01 00:00:00, 2004-01-31 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (27, 52)
+The sum of IS_FIRE is: 27
+The mean of IS_FIRE is: 1.0
+Processing year: 2004, region: Sierra Nevada, season: summer
+Parameters: eval_year=2004, area=Sierra Nevada, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2004-05-01 00:00:00, 2004-09-30 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (565, 52)
+The sum of IS_FIRE is: 565
+The mean of IS_FIRE is: 1.0
+Processing year: 2004, region: Sierra Nevada, season: winter
+Parameters: eval_year=2004, area=Sierra Nevada, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2003-10-01 00:00:00, 2004-01-31 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (120, 52)
+The sum of IS_FIRE is: 120
+The mean of IS_FIRE is: 1.0
+Processing year: 2004, region: South Coast, season: summer
+Parameters: eval_year=2004, area=South Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2004-05-01 00:00:00, 2004-09-30 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (458, 52)
+The sum of IS_FIRE is: 458
+The mean of IS_FIRE is: 1.0
+Processing year: 2004, region: South Coast, season: winter
+Parameters: eval_year=2004, area=South Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2003-10-01 00:00:00, 2004-01-31 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (140, 52)
+The sum of IS_FIRE is: 140
+The mean of IS_FIRE is: 1.0
+Processing year: 2005, region: North Coast, season: summer
+Parameters: eval_year=2005, area=North Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+Year column is added
+Month column is added
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2005-05-01 00:00:00, 2005-09-30 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (335, 52)
+The sum of IS_FIRE is: 335
+The mean of IS_FIRE is: 1.0
+Processing year: 2005, region: North Coast, season: winter
+Parameters: eval_year=2005, area=North Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2004-10-01 00:00:00, 2005-01-31 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (68, 52)
+The sum of IS_FIRE is: 68
+The mean of IS_FIRE is: 1.0
+Processing year: 2005, region: Central Coast, season: summer
+Parameters: eval_year=2005, area=Central Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2005-05-01 00:00:00, 2005-09-30 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (1283, 52)
+The sum of IS_FIRE is: 1283
+The mean of IS_FIRE is: 1.0
+Processing year: 2005, region: Central Coast, season: winter
+Parameters: eval_year=2005, area=Central Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2004-10-01 00:00:00, 2005-01-31 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (95, 52)
+The sum of IS_FIRE is: 95
+The mean of IS_FIRE is: 1.0
+Processing year: 2005, region: North Interior, season: summer
+Parameters: eval_year=2005, area=North Interior, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2005-05-01 00:00:00, 2005-09-30 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (106, 52)
+The sum of IS_FIRE is: 106
+The mean of IS_FIRE is: 1.0
+Processing year: 2005, region: North Interior, season: winter
+Parameters: eval_year=2005, area=North Interior, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2004-10-01 00:00:00, 2005-01-31 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (16, 52)
+The sum of IS_FIRE is: 16
+The mean of IS_FIRE is: 1.0
+Processing year: 2005, region: Sierra Nevada, season: summer
+Parameters: eval_year=2005, area=Sierra Nevada, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2005-05-01 00:00:00, 2005-09-30 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (451, 52)
+The sum of IS_FIRE is: 451
+The mean of IS_FIRE is: 1.0
+Processing year: 2005, region: Sierra Nevada, season: winter
+Parameters: eval_year=2005, area=Sierra Nevada, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2004-10-01 00:00:00, 2005-01-31 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (72, 52)
+The sum of IS_FIRE is: 72
+The mean of IS_FIRE is: 1.0
+Processing year: 2005, region: South Coast, season: summer
+Parameters: eval_year=2005, area=South Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2005-05-01 00:00:00, 2005-09-30 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (682, 52)
+The sum of IS_FIRE is: 682
+The mean of IS_FIRE is: 1.0
+Processing year: 2005, region: South Coast, season: winter
+Parameters: eval_year=2005, area=South Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2004-10-01 00:00:00, 2005-01-31 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (76, 52)
+The sum of IS_FIRE is: 76
+The mean of IS_FIRE is: 1.0
+Processing year: 2006, region: North Coast, season: summer
+Parameters: eval_year=2006, area=North Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+Year column is added
+Month column is added
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2006-05-01 00:00:00, 2006-09-30 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (381, 52)
+The sum of IS_FIRE is: 381
+The mean of IS_FIRE is: 1.0
+Processing year: 2006, region: North Coast, season: winter
+Parameters: eval_year=2006, area=North Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2005-10-01 00:00:00, 2006-01-31 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (84, 52)
+The sum of IS_FIRE is: 84
+The mean of IS_FIRE is: 1.0
+Processing year: 2006, region: Central Coast, season: summer
+Parameters: eval_year=2006, area=Central Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2006-05-01 00:00:00, 2006-09-30 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (1503, 52)
+The sum of IS_FIRE is: 1503
+The mean of IS_FIRE is: 1.0
+Processing year: 2006, region: Central Coast, season: winter
+Parameters: eval_year=2006, area=Central Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2005-10-01 00:00:00, 2006-01-31 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (320, 52)
+The sum of IS_FIRE is: 320
+The mean of IS_FIRE is: 1.0
+Processing year: 2006, region: North Interior, season: summer
+Parameters: eval_year=2006, area=North Interior, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2006-05-01 00:00:00, 2006-09-30 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (108, 52)
+The sum of IS_FIRE is: 108
+The mean of IS_FIRE is: 1.0
+Processing year: 2006, region: North Interior, season: winter
+Parameters: eval_year=2006, area=North Interior, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2005-10-01 00:00:00, 2006-01-31 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (17, 52)
+The sum of IS_FIRE is: 17
+The mean of IS_FIRE is: 1.0
+Processing year: 2006, region: Sierra Nevada, season: summer
+Parameters: eval_year=2006, area=Sierra Nevada, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2006-05-01 00:00:00, 2006-09-30 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (524, 52)
+The sum of IS_FIRE is: 524
+The mean of IS_FIRE is: 1.0
+Processing year: 2006, region: Sierra Nevada, season: winter
+Parameters: eval_year=2006, area=Sierra Nevada, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2005-10-01 00:00:00, 2006-01-31 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (108, 52)
+The sum of IS_FIRE is: 108
+The mean of IS_FIRE is: 1.0
+Processing year: 2006, region: South Coast, season: summer
+Parameters: eval_year=2006, area=South Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2006-05-01 00:00:00, 2006-09-30 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (716, 52)
+The sum of IS_FIRE is: 716
+The mean of IS_FIRE is: 1.0
+Processing year: 2006, region: South Coast, season: winter
+Parameters: eval_year=2006, area=South Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2005-10-01 00:00:00, 2006-01-31 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (205, 52)
+The sum of IS_FIRE is: 205
+The mean of IS_FIRE is: 1.0
+Processing year: 2007, region: North Coast, season: summer
+Parameters: eval_year=2007, area=North Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+Year column is added
+Month column is added
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2007-05-01 00:00:00, 2007-09-30 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (554, 52)
+The sum of IS_FIRE is: 554
+The mean of IS_FIRE is: 1.0
+Processing year: 2007, region: North Coast, season: winter
+Parameters: eval_year=2007, area=North Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2006-10-01 00:00:00, 2007-01-31 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (128, 52)
+The sum of IS_FIRE is: 128
+The mean of IS_FIRE is: 1.0
+Processing year: 2007, region: Central Coast, season: summer
+Parameters: eval_year=2007, area=Central Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2007-05-01 00:00:00, 2007-09-30 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (1489, 52)
+The sum of IS_FIRE is: 1489
+The mean of IS_FIRE is: 1.0
+Processing year: 2007, region: Central Coast, season: winter
+Parameters: eval_year=2007, area=Central Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2006-10-01 00:00:00, 2007-01-31 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (344, 52)
+The sum of IS_FIRE is: 344
+The mean of IS_FIRE is: 1.0
+Processing year: 2007, region: North Interior, season: summer
+Parameters: eval_year=2007, area=North Interior, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2007-05-01 00:00:00, 2007-09-30 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (194, 52)
+The sum of IS_FIRE is: 194
+The mean of IS_FIRE is: 1.0
+Processing year: 2007, region: North Interior, season: winter
+Parameters: eval_year=2007, area=North Interior, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2006-10-01 00:00:00, 2007-01-31 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (49, 52)
+The sum of IS_FIRE is: 49
+The mean of IS_FIRE is: 1.0
+Processing year: 2007, region: Sierra Nevada, season: summer
+Parameters: eval_year=2007, area=Sierra Nevada, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2007-05-01 00:00:00, 2007-09-30 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (684, 52)
+The sum of IS_FIRE is: 684
+The mean of IS_FIRE is: 1.0
+Processing year: 2007, region: Sierra Nevada, season: winter
+Parameters: eval_year=2007, area=Sierra Nevada, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2006-10-01 00:00:00, 2007-01-31 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (179, 52)
+The sum of IS_FIRE is: 179
+The mean of IS_FIRE is: 1.0
+Processing year: 2007, region: South Coast, season: summer
+Parameters: eval_year=2007, area=South Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2007-05-01 00:00:00, 2007-09-30 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (602, 52)
+The sum of IS_FIRE is: 602
+The mean of IS_FIRE is: 1.0
+Processing year: 2007, region: South Coast, season: winter
+Parameters: eval_year=2007, area=South Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2006-10-01 00:00:00, 2007-01-31 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (339, 52)
+The sum of IS_FIRE is: 339
+The mean of IS_FIRE is: 1.0
+Processing year: 2008, region: North Coast, season: summer
+Parameters: eval_year=2008, area=North Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+Year column is added
+Month column is added
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2008-05-01 00:00:00, 2008-09-30 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (469, 52)
+The sum of IS_FIRE is: 469
+The mean of IS_FIRE is: 1.0
+Processing year: 2008, region: North Coast, season: winter
+Parameters: eval_year=2008, area=North Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2007-10-01 00:00:00, 2008-01-31 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (107, 52)
+The sum of IS_FIRE is: 107
+The mean of IS_FIRE is: 1.0
+Processing year: 2008, region: Central Coast, season: summer
+Parameters: eval_year=2008, area=Central Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2008-05-01 00:00:00, 2008-09-30 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (1266, 52)
+The sum of IS_FIRE is: 1266
+The mean of IS_FIRE is: 1.0
+Processing year: 2008, region: Central Coast, season: winter
+Parameters: eval_year=2008, area=Central Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2007-10-01 00:00:00, 2008-01-31 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (299, 52)
+The sum of IS_FIRE is: 299
+The mean of IS_FIRE is: 1.0
+Processing year: 2008, region: North Interior, season: summer
+Parameters: eval_year=2008, area=North Interior, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2008-05-01 00:00:00, 2008-09-30 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (175, 52)
+The sum of IS_FIRE is: 175
+The mean of IS_FIRE is: 1.0
+Processing year: 2008, region: North Interior, season: winter
+Parameters: eval_year=2008, area=North Interior, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2007-10-01 00:00:00, 2008-01-31 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (48, 52)
+The sum of IS_FIRE is: 48
+The mean of IS_FIRE is: 1.0
+Processing year: 2008, region: Sierra Nevada, season: summer
+Parameters: eval_year=2008, area=Sierra Nevada, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2008-05-01 00:00:00, 2008-09-30 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (550, 52)
+The sum of IS_FIRE is: 550
+The mean of IS_FIRE is: 1.0
+Processing year: 2008, region: Sierra Nevada, season: winter
+Parameters: eval_year=2008, area=Sierra Nevada, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2007-10-01 00:00:00, 2008-01-31 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (179, 52)
+The sum of IS_FIRE is: 179
+The mean of IS_FIRE is: 1.0
+Processing year: 2008, region: South Coast, season: summer
+Parameters: eval_year=2008, area=South Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2008-05-01 00:00:00, 2008-09-30 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (510, 52)
+The sum of IS_FIRE is: 510
+The mean of IS_FIRE is: 1.0
+Processing year: 2008, region: South Coast, season: winter
+Parameters: eval_year=2008, area=South Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2007-10-01 00:00:00, 2008-01-31 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (282, 52)
+The sum of IS_FIRE is: 282
+The mean of IS_FIRE is: 1.0
+Processing year: 2009, region: North Coast, season: summer
+Parameters: eval_year=2009, area=North Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+Year column is added
+Month column is added
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2009-05-01 00:00:00, 2009-09-30 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (355, 52)
+The sum of IS_FIRE is: 355
+The mean of IS_FIRE is: 1.0
+Processing year: 2009, region: North Coast, season: winter
+Parameters: eval_year=2009, area=North Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2008-10-01 00:00:00, 2009-01-31 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (75, 52)
+The sum of IS_FIRE is: 75
+The mean of IS_FIRE is: 1.0
+Processing year: 2009, region: Central Coast, season: summer
+Parameters: eval_year=2009, area=Central Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2009-05-01 00:00:00, 2009-09-30 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (916, 52)
+The sum of IS_FIRE is: 916
+The mean of IS_FIRE is: 1.0
+Processing year: 2009, region: Central Coast, season: winter
+Parameters: eval_year=2009, area=Central Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2008-10-01 00:00:00, 2009-01-31 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (204, 52)
+The sum of IS_FIRE is: 204
+The mean of IS_FIRE is: 1.0
+Processing year: 2009, region: North Interior, season: summer
+Parameters: eval_year=2009, area=North Interior, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2009-05-01 00:00:00, 2009-09-30 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (126, 52)
+The sum of IS_FIRE is: 126
+The mean of IS_FIRE is: 1.0
+Processing year: 2009, region: North Interior, season: winter
+Parameters: eval_year=2009, area=North Interior, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2008-10-01 00:00:00, 2009-01-31 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (24, 52)
+The sum of IS_FIRE is: 24
+The mean of IS_FIRE is: 1.0
+Processing year: 2009, region: Sierra Nevada, season: summer
+Parameters: eval_year=2009, area=Sierra Nevada, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2009-05-01 00:00:00, 2009-09-30 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (469, 52)
+The sum of IS_FIRE is: 469
+The mean of IS_FIRE is: 1.0
+Processing year: 2009, region: Sierra Nevada, season: winter
+Parameters: eval_year=2009, area=Sierra Nevada, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2008-10-01 00:00:00, 2009-01-31 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (109, 52)
+The sum of IS_FIRE is: 109
+The mean of IS_FIRE is: 1.0
+Processing year: 2009, region: South Coast, season: summer
+Parameters: eval_year=2009, area=South Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2009-05-01 00:00:00, 2009-09-30 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (581, 52)
+The sum of IS_FIRE is: 581
+The mean of IS_FIRE is: 1.0
+Processing year: 2009, region: South Coast, season: winter
+Parameters: eval_year=2009, area=South Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2008-10-01 00:00:00, 2009-01-31 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (217, 52)
+The sum of IS_FIRE is: 217
+The mean of IS_FIRE is: 1.0
+Processing year: 2010, region: North Coast, season: summer
+Parameters: eval_year=2010, area=North Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+Year column is added
+Month column is added
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2010-05-01 00:00:00, 2010-09-30 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (272, 52)
+The sum of IS_FIRE is: 272
+The mean of IS_FIRE is: 1.0
+Processing year: 2010, region: North Coast, season: winter
+Parameters: eval_year=2010, area=North Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2009-10-01 00:00:00, 2010-01-31 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (67, 52)
+The sum of IS_FIRE is: 67
+The mean of IS_FIRE is: 1.0
+Processing year: 2010, region: Central Coast, season: summer
+Parameters: eval_year=2010, area=Central Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2010-05-01 00:00:00, 2010-09-30 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (911, 52)
+The sum of IS_FIRE is: 911
+The mean of IS_FIRE is: 1.0
+Processing year: 2010, region: Central Coast, season: winter
+Parameters: eval_year=2010, area=Central Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2009-10-01 00:00:00, 2010-01-31 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (135, 52)
+The sum of IS_FIRE is: 135
+The mean of IS_FIRE is: 1.0
+Processing year: 2010, region: North Interior, season: summer
+Parameters: eval_year=2010, area=North Interior, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2010-05-01 00:00:00, 2010-09-30 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (103, 52)
+The sum of IS_FIRE is: 103
+The mean of IS_FIRE is: 1.0
+Processing year: 2010, region: North Interior, season: winter
+Parameters: eval_year=2010, area=North Interior, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2009-10-01 00:00:00, 2010-01-31 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (15, 52)
+The sum of IS_FIRE is: 15
+The mean of IS_FIRE is: 1.0
+Processing year: 2010, region: Sierra Nevada, season: summer
+Parameters: eval_year=2010, area=Sierra Nevada, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2010-05-01 00:00:00, 2010-09-30 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (378, 52)
+The sum of IS_FIRE is: 378
+The mean of IS_FIRE is: 1.0
+Processing year: 2010, region: Sierra Nevada, season: winter
+Parameters: eval_year=2010, area=Sierra Nevada, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2009-10-01 00:00:00, 2010-01-31 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (118, 52)
+The sum of IS_FIRE is: 118
+The mean of IS_FIRE is: 1.0
+Processing year: 2010, region: South Coast, season: summer
+Parameters: eval_year=2010, area=South Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2010-05-01 00:00:00, 2010-09-30 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (568, 52)
+The sum of IS_FIRE is: 568
+The mean of IS_FIRE is: 1.0
+Processing year: 2010, region: South Coast, season: winter
+Parameters: eval_year=2010, area=South Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2009-10-01 00:00:00, 2010-01-31 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (169, 52)
+The sum of IS_FIRE is: 169
+The mean of IS_FIRE is: 1.0
+Processing year: 2011, region: North Coast, season: summer
+Parameters: eval_year=2011, area=North Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+Year column is added
+Month column is added
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2011-05-01 00:00:00, 2011-09-30 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (277, 52)
+The sum of IS_FIRE is: 277
+The mean of IS_FIRE is: 1.0
+Processing year: 2011, region: North Coast, season: winter
+Parameters: eval_year=2011, area=North Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2010-10-01 00:00:00, 2011-01-31 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (48, 52)
+The sum of IS_FIRE is: 48
+The mean of IS_FIRE is: 1.0
+Processing year: 2011, region: Central Coast, season: summer
+Parameters: eval_year=2011, area=Central Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2011-05-01 00:00:00, 2011-09-30 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (889, 52)
+The sum of IS_FIRE is: 889
+The mean of IS_FIRE is: 1.0
+Processing year: 2011, region: Central Coast, season: winter
+Parameters: eval_year=2011, area=Central Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2010-10-01 00:00:00, 2011-01-31 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (145, 52)
+The sum of IS_FIRE is: 145
+The mean of IS_FIRE is: 1.0
+Processing year: 2011, region: North Interior, season: summer
+Parameters: eval_year=2011, area=North Interior, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2011-05-01 00:00:00, 2011-09-30 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (96, 52)
+The sum of IS_FIRE is: 96
+The mean of IS_FIRE is: 1.0
+Processing year: 2011, region: North Interior, season: winter
+Parameters: eval_year=2011, area=North Interior, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2010-10-01 00:00:00, 2011-01-31 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (15, 52)
+The sum of IS_FIRE is: 15
+The mean of IS_FIRE is: 1.0
+Processing year: 2011, region: Sierra Nevada, season: summer
+Parameters: eval_year=2011, area=Sierra Nevada, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2011-05-01 00:00:00, 2011-09-30 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (349, 52)
+The sum of IS_FIRE is: 349
+The mean of IS_FIRE is: 1.0
+Processing year: 2011, region: Sierra Nevada, season: winter
+Parameters: eval_year=2011, area=Sierra Nevada, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2010-10-01 00:00:00, 2011-01-31 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (63, 52)
+The sum of IS_FIRE is: 63
+The mean of IS_FIRE is: 1.0
+Processing year: 2011, region: South Coast, season: summer
+Parameters: eval_year=2011, area=South Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2011-05-01 00:00:00, 2011-09-30 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (528, 52)
+The sum of IS_FIRE is: 528
+The mean of IS_FIRE is: 1.0
+Processing year: 2011, region: South Coast, season: winter
+Parameters: eval_year=2011, area=South Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2010-10-01 00:00:00, 2011-01-31 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (121, 52)
+The sum of IS_FIRE is: 121
+The mean of IS_FIRE is: 1.0
+Processing year: 2012, region: North Coast, season: summer
+Parameters: eval_year=2012, area=North Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+Year column is added
+Month column is added
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2012-05-01 00:00:00, 2012-09-30 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (337, 52)
+The sum of IS_FIRE is: 337
+The mean of IS_FIRE is: 1.0
+Processing year: 2012, region: North Coast, season: winter
+Parameters: eval_year=2012, area=North Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2011-10-01 00:00:00, 2012-01-31 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (88, 52)
+The sum of IS_FIRE is: 88
+The mean of IS_FIRE is: 1.0
+Processing year: 2012, region: Central Coast, season: summer
+Parameters: eval_year=2012, area=Central Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2012-05-01 00:00:00, 2012-09-30 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (693, 52)
+The sum of IS_FIRE is: 693
+The mean of IS_FIRE is: 1.0
+Processing year: 2012, region: Central Coast, season: winter
+Parameters: eval_year=2012, area=Central Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2011-10-01 00:00:00, 2012-01-31 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (255, 52)
+The sum of IS_FIRE is: 255
+The mean of IS_FIRE is: 1.0
+Processing year: 2012, region: North Interior, season: summer
+Parameters: eval_year=2012, area=North Interior, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2012-05-01 00:00:00, 2012-09-30 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (106, 52)
+The sum of IS_FIRE is: 106
+The mean of IS_FIRE is: 1.0
+Processing year: 2012, region: North Interior, season: winter
+Parameters: eval_year=2012, area=North Interior, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2011-10-01 00:00:00, 2012-01-31 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (29, 52)
+The sum of IS_FIRE is: 29
+The mean of IS_FIRE is: 1.0
+Processing year: 2012, region: Sierra Nevada, season: summer
+Parameters: eval_year=2012, area=Sierra Nevada, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2012-05-01 00:00:00, 2012-09-30 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (458, 52)
+The sum of IS_FIRE is: 458
+The mean of IS_FIRE is: 1.0
+Processing year: 2012, region: Sierra Nevada, season: winter
+Parameters: eval_year=2012, area=Sierra Nevada, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2011-10-01 00:00:00, 2012-01-31 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (222, 52)
+The sum of IS_FIRE is: 222
+The mean of IS_FIRE is: 1.0
+Processing year: 2012, region: South Coast, season: summer
+Parameters: eval_year=2012, area=South Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2012-05-01 00:00:00, 2012-09-30 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (397, 52)
+The sum of IS_FIRE is: 397
+The mean of IS_FIRE is: 1.0
+Processing year: 2012, region: South Coast, season: winter
+Parameters: eval_year=2012, area=South Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2011-10-01 00:00:00, 2012-01-31 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (186, 52)
+The sum of IS_FIRE is: 186
+The mean of IS_FIRE is: 1.0
+Processing year: 2013, region: North Coast, season: summer
+Parameters: eval_year=2013, area=North Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+Year column is added
+Month column is added
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2013-05-01 00:00:00, 2013-09-30 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (367, 52)
+The sum of IS_FIRE is: 367
+The mean of IS_FIRE is: 1.0
+Processing year: 2013, region: North Coast, season: winter
+Parameters: eval_year=2013, area=North Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2012-10-01 00:00:00, 2013-01-31 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (58, 52)
+The sum of IS_FIRE is: 58
+The mean of IS_FIRE is: 1.0
+Processing year: 2013, region: Central Coast, season: summer
+Parameters: eval_year=2013, area=Central Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2013-05-01 00:00:00, 2013-09-30 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (750, 52)
+The sum of IS_FIRE is: 750
+The mean of IS_FIRE is: 1.0
+Processing year: 2013, region: Central Coast, season: winter
+Parameters: eval_year=2013, area=Central Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2012-10-01 00:00:00, 2013-01-31 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (108, 52)
+The sum of IS_FIRE is: 108
+The mean of IS_FIRE is: 1.0
+Processing year: 2013, region: North Interior, season: summer
+Parameters: eval_year=2013, area=North Interior, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2013-05-01 00:00:00, 2013-09-30 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (93, 52)
+The sum of IS_FIRE is: 93
+The mean of IS_FIRE is: 1.0
+Processing year: 2013, region: North Interior, season: winter
+Parameters: eval_year=2013, area=North Interior, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2012-10-01 00:00:00, 2013-01-31 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (21, 52)
+The sum of IS_FIRE is: 21
+The mean of IS_FIRE is: 1.0
+Processing year: 2013, region: Sierra Nevada, season: summer
+Parameters: eval_year=2013, area=Sierra Nevada, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2013-05-01 00:00:00, 2013-09-30 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (365, 52)
+The sum of IS_FIRE is: 365
+The mean of IS_FIRE is: 1.0
+Processing year: 2013, region: Sierra Nevada, season: winter
+Parameters: eval_year=2013, area=Sierra Nevada, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2012-10-01 00:00:00, 2013-01-31 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (95, 52)
+The sum of IS_FIRE is: 95
+The mean of IS_FIRE is: 1.0
+Processing year: 2013, region: South Coast, season: summer
+Parameters: eval_year=2013, area=South Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2013-05-01 00:00:00, 2013-09-30 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (367, 52)
+The sum of IS_FIRE is: 367
+The mean of IS_FIRE is: 1.0
+Processing year: 2013, region: South Coast, season: winter
+Parameters: eval_year=2013, area=South Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2012-10-01 00:00:00, 2013-01-31 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (138, 52)
+The sum of IS_FIRE is: 138
+The mean of IS_FIRE is: 1.0
+Processing year: 2014, region: North Coast, season: summer
+Parameters: eval_year=2014, area=North Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+Year column is added
+Month column is added
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2014-05-01 00:00:00, 2014-09-30 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (355, 52)
+The sum of IS_FIRE is: 355
+The mean of IS_FIRE is: 1.0
+Processing year: 2014, region: North Coast, season: winter
+Parameters: eval_year=2014, area=North Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2013-10-01 00:00:00, 2014-01-31 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (149, 52)
+The sum of IS_FIRE is: 149
+The mean of IS_FIRE is: 1.0
+Processing year: 2014, region: Central Coast, season: summer
+Parameters: eval_year=2014, area=Central Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2014-05-01 00:00:00, 2014-09-30 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (593, 52)
+The sum of IS_FIRE is: 593
+The mean of IS_FIRE is: 1.0
+Processing year: 2014, region: Central Coast, season: winter
+Parameters: eval_year=2014, area=Central Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2013-10-01 00:00:00, 2014-01-31 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (344, 52)
+The sum of IS_FIRE is: 344
+The mean of IS_FIRE is: 1.0
+Processing year: 2014, region: North Interior, season: summer
+Parameters: eval_year=2014, area=North Interior, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2014-05-01 00:00:00, 2014-09-30 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (76, 52)
+The sum of IS_FIRE is: 76
+The mean of IS_FIRE is: 1.0
+Processing year: 2014, region: North Interior, season: winter
+Parameters: eval_year=2014, area=North Interior, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2013-10-01 00:00:00, 2014-01-31 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (49, 52)
+The sum of IS_FIRE is: 49
+The mean of IS_FIRE is: 1.0
+Processing year: 2014, region: Sierra Nevada, season: summer
+Parameters: eval_year=2014, area=Sierra Nevada, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2014-05-01 00:00:00, 2014-09-30 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (378, 52)
+The sum of IS_FIRE is: 378
+The mean of IS_FIRE is: 1.0
+Processing year: 2014, region: Sierra Nevada, season: winter
+Parameters: eval_year=2014, area=Sierra Nevada, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2013-10-01 00:00:00, 2014-01-31 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (224, 52)
+The sum of IS_FIRE is: 224
+The mean of IS_FIRE is: 1.0
+Processing year: 2014, region: South Coast, season: summer
+Parameters: eval_year=2014, area=South Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2014-05-01 00:00:00, 2014-09-30 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (290, 52)
+The sum of IS_FIRE is: 290
+The mean of IS_FIRE is: 1.0
+Processing year: 2014, region: South Coast, season: winter
+Parameters: eval_year=2014, area=South Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2013-10-01 00:00:00, 2014-01-31 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (153, 52)
+The sum of IS_FIRE is: 153
+The mean of IS_FIRE is: 1.0
+Processing year: 2015, region: North Coast, season: summer
+Parameters: eval_year=2015, area=North Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+Year column is added
+Month column is added
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2015-05-01 00:00:00, 2015-09-30 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (386, 52)
+The sum of IS_FIRE is: 386
+The mean of IS_FIRE is: 1.0
+Processing year: 2015, region: North Coast, season: winter
+Parameters: eval_year=2015, area=North Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2014-10-01 00:00:00, 2015-01-31 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (53, 52)
+The sum of IS_FIRE is: 53
+The mean of IS_FIRE is: 1.0
+Processing year: 2015, region: Central Coast, season: summer
+Parameters: eval_year=2015, area=Central Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2015-05-01 00:00:00, 2015-09-30 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (640, 52)
+The sum of IS_FIRE is: 640
+The mean of IS_FIRE is: 1.0
+Processing year: 2015, region: Central Coast, season: winter
+Parameters: eval_year=2015, area=Central Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2014-10-01 00:00:00, 2015-01-31 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (77, 52)
+The sum of IS_FIRE is: 77
+The mean of IS_FIRE is: 1.0
+Processing year: 2015, region: North Interior, season: summer
+Parameters: eval_year=2015, area=North Interior, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2015-05-01 00:00:00, 2015-09-30 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (89, 52)
+The sum of IS_FIRE is: 89
+The mean of IS_FIRE is: 1.0
+Processing year: 2015, region: North Interior, season: winter
+Parameters: eval_year=2015, area=North Interior, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2014-10-01 00:00:00, 2015-01-31 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (7, 52)
+The sum of IS_FIRE is: 7
+The mean of IS_FIRE is: 1.0
+Processing year: 2015, region: Sierra Nevada, season: summer
+Parameters: eval_year=2015, area=Sierra Nevada, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2015-05-01 00:00:00, 2015-09-30 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (343, 52)
+The sum of IS_FIRE is: 343
+The mean of IS_FIRE is: 1.0
+Processing year: 2015, region: Sierra Nevada, season: winter
+Parameters: eval_year=2015, area=Sierra Nevada, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2014-10-01 00:00:00, 2015-01-31 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (92, 52)
+The sum of IS_FIRE is: 92
+The mean of IS_FIRE is: 1.0
+Processing year: 2015, region: South Coast, season: summer
+Parameters: eval_year=2015, area=South Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2015-05-01 00:00:00, 2015-09-30 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (277, 52)
+The sum of IS_FIRE is: 277
+The mean of IS_FIRE is: 1.0
+Processing year: 2015, region: South Coast, season: winter
+Parameters: eval_year=2015, area=South Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2014-10-01 00:00:00, 2015-01-31 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (110, 52)
+The sum of IS_FIRE is: 110
+The mean of IS_FIRE is: 1.0
+Processing year: 2016, region: North Coast, season: summer
+Parameters: eval_year=2016, area=North Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+Year column is added
+Month column is added
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2016-05-01 00:00:00, 2016-09-30 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (405, 52)
+The sum of IS_FIRE is: 405
+The mean of IS_FIRE is: 1.0
+Processing year: 2016, region: North Coast, season: winter
+Parameters: eval_year=2016, area=North Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2015-10-01 00:00:00, 2016-01-31 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (88, 52)
+The sum of IS_FIRE is: 88
+The mean of IS_FIRE is: 1.0
+Processing year: 2016, region: Central Coast, season: summer
+Parameters: eval_year=2016, area=Central Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2016-05-01 00:00:00, 2016-09-30 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (780, 52)
+The sum of IS_FIRE is: 780
+The mean of IS_FIRE is: 1.0
+Processing year: 2016, region: Central Coast, season: winter
+Parameters: eval_year=2016, area=Central Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2015-10-01 00:00:00, 2016-01-31 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (124, 52)
+The sum of IS_FIRE is: 124
+The mean of IS_FIRE is: 1.0
+Processing year: 2016, region: North Interior, season: summer
+Parameters: eval_year=2016, area=North Interior, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2016-05-01 00:00:00, 2016-09-30 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (103, 52)
+The sum of IS_FIRE is: 103
+The mean of IS_FIRE is: 1.0
+Processing year: 2016, region: North Interior, season: winter
+Parameters: eval_year=2016, area=North Interior, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2015-10-01 00:00:00, 2016-01-31 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (19, 52)
+The sum of IS_FIRE is: 19
+The mean of IS_FIRE is: 1.0
+Processing year: 2016, region: Sierra Nevada, season: summer
+Parameters: eval_year=2016, area=Sierra Nevada, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2016-05-01 00:00:00, 2016-09-30 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (502, 52)
+The sum of IS_FIRE is: 502
+The mean of IS_FIRE is: 1.0
+Processing year: 2016, region: Sierra Nevada, season: winter
+Parameters: eval_year=2016, area=Sierra Nevada, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2015-10-01 00:00:00, 2016-01-31 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (70, 52)
+The sum of IS_FIRE is: 70
+The mean of IS_FIRE is: 1.0
+Processing year: 2016, region: South Coast, season: summer
+Parameters: eval_year=2016, area=South Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2016-05-01 00:00:00, 2016-09-30 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (338, 52)
+The sum of IS_FIRE is: 338
+The mean of IS_FIRE is: 1.0
+Processing year: 2016, region: South Coast, season: winter
+Parameters: eval_year=2016, area=South Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2015-10-01 00:00:00, 2016-01-31 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (100, 52)
+The sum of IS_FIRE is: 100
+The mean of IS_FIRE is: 1.0
+Processing year: 2017, region: North Coast, season: summer
+Parameters: eval_year=2017, area=North Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+Year column is added
+Month column is added
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2017-05-01 00:00:00, 2017-09-30 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (300, 52)
+The sum of IS_FIRE is: 300
+The mean of IS_FIRE is: 1.0
+Processing year: 2017, region: North Coast, season: winter
+Parameters: eval_year=2017, area=North Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2016-10-01 00:00:00, 2017-01-31 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (28, 52)
+The sum of IS_FIRE is: 28
+The mean of IS_FIRE is: 1.0
+Processing year: 2017, region: Central Coast, season: summer
+Parameters: eval_year=2017, area=Central Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2017-05-01 00:00:00, 2017-09-30 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (856, 52)
+The sum of IS_FIRE is: 856
+The mean of IS_FIRE is: 1.0
+Processing year: 2017, region: Central Coast, season: winter
+Parameters: eval_year=2017, area=Central Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2016-10-01 00:00:00, 2017-01-31 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (115, 52)
+The sum of IS_FIRE is: 115
+The mean of IS_FIRE is: 1.0
+Processing year: 2017, region: North Interior, season: summer
+Parameters: eval_year=2017, area=North Interior, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2017-05-01 00:00:00, 2017-09-30 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (128, 52)
+The sum of IS_FIRE is: 128
+The mean of IS_FIRE is: 1.0
+Processing year: 2017, region: North Interior, season: winter
+Parameters: eval_year=2017, area=North Interior, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2016-10-01 00:00:00, 2017-01-31 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (16, 52)
+The sum of IS_FIRE is: 16
+The mean of IS_FIRE is: 1.0
+Processing year: 2017, region: Sierra Nevada, season: summer
+Parameters: eval_year=2017, area=Sierra Nevada, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2017-05-01 00:00:00, 2017-09-30 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (428, 52)
+The sum of IS_FIRE is: 428
+The mean of IS_FIRE is: 1.0
+Processing year: 2017, region: Sierra Nevada, season: winter
+Parameters: eval_year=2017, area=Sierra Nevada, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2016-10-01 00:00:00, 2017-01-31 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (76, 52)
+The sum of IS_FIRE is: 76
+The mean of IS_FIRE is: 1.0
+Processing year: 2017, region: South Coast, season: summer
+Parameters: eval_year=2017, area=South Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2017-05-01 00:00:00, 2017-09-30 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (432, 52)
+The sum of IS_FIRE is: 432
+The mean of IS_FIRE is: 1.0
+Processing year: 2017, region: South Coast, season: winter
+Parameters: eval_year=2017, area=South Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2016-10-01 00:00:00, 2017-01-31 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (126, 52)
+The sum of IS_FIRE is: 126
+The mean of IS_FIRE is: 1.0
+Processing year: 2018, region: North Coast, season: summer
+Parameters: eval_year=2018, area=North Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+Year column is added
+Month column is added
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2018-05-01 00:00:00, 2018-09-30 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (260, 52)
+The sum of IS_FIRE is: 260
+The mean of IS_FIRE is: 1.0
+Processing year: 2018, region: North Coast, season: winter
+Parameters: eval_year=2018, area=North Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2017-10-01 00:00:00, 2018-01-31 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (74, 52)
+The sum of IS_FIRE is: 74
+The mean of IS_FIRE is: 1.0
+Processing year: 2018, region: Central Coast, season: summer
+Parameters: eval_year=2018, area=Central Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2018-05-01 00:00:00, 2018-09-30 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (844, 52)
+The sum of IS_FIRE is: 844
+The mean of IS_FIRE is: 1.0
+Processing year: 2018, region: Central Coast, season: winter
+Parameters: eval_year=2018, area=Central Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2017-10-01 00:00:00, 2018-01-31 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (206, 52)
+The sum of IS_FIRE is: 206
+The mean of IS_FIRE is: 1.0
+Processing year: 2018, region: North Interior, season: summer
+Parameters: eval_year=2018, area=North Interior, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2018-05-01 00:00:00, 2018-09-30 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (93, 52)
+The sum of IS_FIRE is: 93
+The mean of IS_FIRE is: 1.0
+Processing year: 2018, region: North Interior, season: winter
+Parameters: eval_year=2018, area=North Interior, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2017-10-01 00:00:00, 2018-01-31 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (35, 52)
+The sum of IS_FIRE is: 35
+The mean of IS_FIRE is: 1.0
+Processing year: 2018, region: Sierra Nevada, season: summer
+Parameters: eval_year=2018, area=Sierra Nevada, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2018-05-01 00:00:00, 2018-09-30 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (427, 52)
+The sum of IS_FIRE is: 427
+The mean of IS_FIRE is: 1.0
+Processing year: 2018, region: Sierra Nevada, season: winter
+Parameters: eval_year=2018, area=Sierra Nevada, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2017-10-01 00:00:00, 2018-01-31 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (137, 52)
+The sum of IS_FIRE is: 137
+The mean of IS_FIRE is: 1.0
+Processing year: 2018, region: South Coast, season: summer
+Parameters: eval_year=2018, area=South Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2018-05-01 00:00:00, 2018-09-30 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (334, 52)
+The sum of IS_FIRE is: 334
+The mean of IS_FIRE is: 1.0
+Processing year: 2018, region: South Coast, season: winter
+Parameters: eval_year=2018, area=South Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2017-10-01 00:00:00, 2018-01-31 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (223, 52)
+The sum of IS_FIRE is: 223
+The mean of IS_FIRE is: 1.0
+Processing year: 2019, region: North Coast, season: summer
+Parameters: eval_year=2019, area=North Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+Year column is added
+Month column is added
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2019-05-01 00:00:00, 2019-09-30 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (143, 52)
+The sum of IS_FIRE is: 143
+The mean of IS_FIRE is: 1.0
+Processing year: 2019, region: North Coast, season: winter
+Parameters: eval_year=2019, area=North Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2018-10-01 00:00:00, 2019-01-31 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (95, 52)
+The sum of IS_FIRE is: 95
+The mean of IS_FIRE is: 1.0
+Processing year: 2019, region: Central Coast, season: summer
+Parameters: eval_year=2019, area=Central Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2019-05-01 00:00:00, 2019-09-30 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (437, 52)
+The sum of IS_FIRE is: 437
+The mean of IS_FIRE is: 1.0
+Processing year: 2019, region: Central Coast, season: winter
+Parameters: eval_year=2019, area=Central Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2018-10-01 00:00:00, 2019-01-31 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (226, 52)
+The sum of IS_FIRE is: 226
+The mean of IS_FIRE is: 1.0
+Processing year: 2019, region: North Interior, season: summer
+Parameters: eval_year=2019, area=North Interior, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2019-05-01 00:00:00, 2019-09-30 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (41, 52)
+The sum of IS_FIRE is: 41
+The mean of IS_FIRE is: 1.0
+Processing year: 2019, region: North Interior, season: winter
+Parameters: eval_year=2019, area=North Interior, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2018-10-01 00:00:00, 2019-01-31 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (23, 52)
+The sum of IS_FIRE is: 23
+The mean of IS_FIRE is: 1.0
+Processing year: 2019, region: Sierra Nevada, season: summer
+Parameters: eval_year=2019, area=Sierra Nevada, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2019-05-01 00:00:00, 2019-09-30 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (292, 52)
+The sum of IS_FIRE is: 292
+The mean of IS_FIRE is: 1.0
+Processing year: 2019, region: Sierra Nevada, season: winter
+Parameters: eval_year=2019, area=Sierra Nevada, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2018-10-01 00:00:00, 2019-01-31 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (115, 52)
+The sum of IS_FIRE is: 115
+The mean of IS_FIRE is: 1.0
+Processing year: 2019, region: South Coast, season: summer
+Parameters: eval_year=2019, area=South Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2019-05-01 00:00:00, 2019-09-30 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (280, 52)
+The sum of IS_FIRE is: 280
+The mean of IS_FIRE is: 1.0
+Processing year: 2019, region: South Coast, season: winter
+Parameters: eval_year=2019, area=South Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2018-10-01 00:00:00, 2019-01-31 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (119, 52)
+The sum of IS_FIRE is: 119
+The mean of IS_FIRE is: 1.0
+Processing year: 2020, region: North Coast, season: summer
+Parameters: eval_year=2020, area=North Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+Year column is added
+Month column is added
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2020-05-01 00:00:00, 2020-09-30 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (185, 52)
+The sum of IS_FIRE is: 185
+The mean of IS_FIRE is: 1.0
+Processing year: 2020, region: North Coast, season: winter
+Parameters: eval_year=2020, area=North Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2019-10-01 00:00:00, 2020-01-31 00:00:00
+The unique values of SubRegion are: ['North Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (56, 52)
+The sum of IS_FIRE is: 56
+The mean of IS_FIRE is: 1.0
+Processing year: 2020, region: Central Coast, season: summer
+Parameters: eval_year=2020, area=Central Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2020-05-01 00:00:00, 2020-09-30 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (533, 52)
+The sum of IS_FIRE is: 533
+The mean of IS_FIRE is: 1.0
+Processing year: 2020, region: Central Coast, season: winter
+Parameters: eval_year=2020, area=Central Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2019-10-01 00:00:00, 2020-01-31 00:00:00
+The unique values of SubRegion are: ['Central Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (106, 52)
+The sum of IS_FIRE is: 106
+The mean of IS_FIRE is: 1.0
+Processing year: 2020, region: North Interior, season: summer
+Parameters: eval_year=2020, area=North Interior, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2020-05-01 00:00:00, 2020-09-30 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (83, 52)
+The sum of IS_FIRE is: 83
+The mean of IS_FIRE is: 1.0
+Processing year: 2020, region: North Interior, season: winter
+Parameters: eval_year=2020, area=North Interior, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2019-10-01 00:00:00, 2020-01-31 00:00:00
+The unique values of SubRegion are: ['North Interior']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (14, 52)
+The sum of IS_FIRE is: 14
+The mean of IS_FIRE is: 1.0
+Processing year: 2020, region: Sierra Nevada, season: summer
+Parameters: eval_year=2020, area=Sierra Nevada, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2020-05-01 00:00:00, 2020-09-30 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (375, 52)
+The sum of IS_FIRE is: 375
+The mean of IS_FIRE is: 1.0
+Processing year: 2020, region: Sierra Nevada, season: winter
+Parameters: eval_year=2020, area=Sierra Nevada, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2019-10-01 00:00:00, 2020-01-31 00:00:00
+The unique values of SubRegion are: ['Sierra Nevada']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (108, 52)
+The sum of IS_FIRE is: 108
+The mean of IS_FIRE is: 1.0
+Processing year: 2020, region: South Coast, season: summer
+Parameters: eval_year=2020, area=South Coast, season=summer, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [5 6 7 8 9]
+The min and max day are: 2020-05-01 00:00:00, 2020-09-30 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (435, 52)
+The sum of IS_FIRE is: 435
+The mean of IS_FIRE is: 1.0
+Processing year: 2020, region: South Coast, season: winter
+Parameters: eval_year=2020, area=South Coast, season=winter, wind_speed_threshold=0, wind_speed_region=not filtered, fire_size_threshold=0, if_filter_wind_direction=False, wind_direction_range=[0, 360], month_list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], fire_event_only=True
+The unique values of month are: [10 11 12  1]
+The min and max day are: 2019-10-01 00:00:00, 2020-01-31 00:00:00
+The unique values of SubRegion are: ['South Coast']
+The wind speed is not filtered
+The fire size is not filtered
+The fire event is filtered
+The shape of data is: (132, 52)
+The sum of IS_FIRE is: 132
+The mean of IS_FIRE is: 1.0

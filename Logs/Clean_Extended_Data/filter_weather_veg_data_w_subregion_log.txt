@@ -1,0 +1,50 @@
+Task: Data cleaning on combined weather data with subregion filter
+Processing started on: 2025-06-15 13:23:12
+--------------------------------------------------
+Processing file: dead_fuel_moisture_1000h.parquet, shape: (157594531, 5)
+Filtered DataFrame shape: (142966936, 5)
+Saved filtered data to: ../../Clean_Data/Weather_Data/Combined_Weather_Data_w_Veg_SubRegion_Filter//dead_fuel_moisture_1000h.parquet
+--------------------------------------------------
+Processing file: dead_fuel_moisture_100h.parquet, shape: (157594531, 5)
+Filtered DataFrame shape: (142966936, 5)
+Saved filtered data to: ../../Clean_Data/Weather_Data/Combined_Weather_Data_w_Veg_SubRegion_Filter//dead_fuel_moisture_100h.parquet
+--------------------------------------------------
+Processing file: max_air_temperature.parquet, shape: (157594531, 5)
+Filtered DataFrame shape: (142966936, 5)
+Saved filtered data to: ../../Clean_Data/Weather_Data/Combined_Weather_Data_w_Veg_SubRegion_Filter//max_air_temperature.parquet
+--------------------------------------------------
+Processing file: max_relative_humidity.parquet, shape: (157594531, 5)
+Filtered DataFrame shape: (142966936, 5)
+Saved filtered data to: ../../Clean_Data/Weather_Data/Combined_Weather_Data_w_Veg_SubRegion_Filter//max_relative_humidity.parquet
+--------------------------------------------------
+Processing file: min_air_temperature.parquet, shape: (157594531, 5)
+Filtered DataFrame shape: (142966936, 5)
+Saved filtered data to: ../../Clean_Data/Weather_Data/Combined_Weather_Data_w_Veg_SubRegion_Filter//min_air_temperature.parquet
+--------------------------------------------------
+Processing file: min_relative_humidity.parquet, shape: (157594531, 5)
+Filtered DataFrame shape: (142966936, 5)
+Saved filtered data to: ../../Clean_Data/Weather_Data/Combined_Weather_Data_w_Veg_SubRegion_Filter//min_relative_humidity.parquet
+--------------------------------------------------
+Processing file: precipitation_amount.parquet, shape: (157594531, 5)
+Filtered DataFrame shape: (142966936, 5)
+Saved filtered data to: ../../Clean_Data/Weather_Data/Combined_Weather_Data_w_Veg_SubRegion_Filter//precipitation_amount.parquet
+--------------------------------------------------
+Processing file: specific_humidity.parquet, shape: (157594531, 5)
+Filtered DataFrame shape: (142966936, 5)
+Saved filtered data to: ../../Clean_Data/Weather_Data/Combined_Weather_Data_w_Veg_SubRegion_Filter//specific_humidity.parquet
+--------------------------------------------------
+Processing file: surface_downwelling_shortwave_flux.parquet, shape: (157594531, 5)
+Filtered DataFrame shape: (142966936, 5)
+Saved filtered data to: ../../Clean_Data/Weather_Data/Combined_Weather_Data_w_Veg_SubRegion_Filter//surface_downwelling_shortwave_flux.parquet
+--------------------------------------------------
+Processing file: SWE.parquet, shape: (141845146, 5)
+Filtered DataFrame shape: (128679376, 5)
+Saved filtered data to: ../../Clean_Data/Weather_Data/Combined_Weather_Data_w_Veg_SubRegion_Filter//SWE.parquet
+--------------------------------------------------
+Processing file: wind_from_direction.parquet, shape: (157594531, 5)
+Filtered DataFrame shape: (142966936, 5)
+Saved filtered data to: ../../Clean_Data/Weather_Data/Combined_Weather_Data_w_Veg_SubRegion_Filter//wind_from_direction.parquet
+--------------------------------------------------
+Processing file: wind_speed.parquet, shape: (157594531, 5)
+Filtered DataFrame shape: (142966936, 5)
+Saved filtered data to: ../../Clean_Data/Weather_Data/Combined_Weather_Data_w_Veg_SubRegion_Filter//wind_speed.parquet
