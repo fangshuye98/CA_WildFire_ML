@@ -1,0 +1,741 @@
+feature,year,relative_importance
+dead_fuel_moisture_1000hr,2001,5.293301851647213
+dead_fuel_moisture_100hr,2001,1.222333243037848
+max_air_temperature,2001,14.924484889814309
+max_relative_humidity,2001,1.1651705017297163
+min_air_temperature,2001,1.14271775915889
+min_relative_humidity,2001,1.5979691552718405
+precipitation_amount,2001,1.6478300324110393
+specific_humidity,2001,1.062076251874359
+surface_downwelling_shortwave_flux_in_air,2001,1.5640091201539532
+wind_speed,2001,1.0810009316524434
+SWE,2001,3.232546733466547
+population_density,2001,12.254674903047109
+LAI,2001,2.265124921903907
+slope_max,2001,2.449190611180601
+road_density_km_km2,2001,3.939160683944667
+line_density_km_per_cell,2001,2.605251032654638
+wind_direction_category_N,2001,1.774490698845392
+wind_direction_category_NE,2001,1.0069103886332578
+wind_direction_category_E,2001,0.468356277539867
+wind_direction_category_SE,2001,1.4857827218725865
+wind_direction_category_S,2001,1.0593195431932054
+wind_direction_category_SW,2001,2.1458263299127442
+wind_direction_category_W,2001,0.8843752063133676
+wind_direction_category_NW,2001,1.5657330353747727
+veg_Barren ,2001,0.9587601746927933
+veg_Native Chapparal ,2001,2.9940126406328442
+veg_Native Coastal Sage Scrub ,2001,2.1450607375498887
+veg_Native Conifer Alpine ,2001,1.2420856700432419
+veg_Native Conifer Forest ,2001,1.5654177236753766
+veg_Native Desert ,2001,2.6574124320190804
+veg_Native Grassland ,2001,3.188702706485174
+veg_Native Inland Scrub ,2001,6.732108459927337
+veg_Native Oak Woodland ,2001,1.8765809639840785
+veg_Native Wetland ,2001,1.5855449524358316
+veg_Non-native forest ,2001,2.2670440163630468
+veg_Non-native grassland ,2001,3.3483985033220995
+veg_Non-native shrub ,2001,1.6012341942349353
+dead_fuel_moisture_1000hr,2002,4.783703536223734
+dead_fuel_moisture_100hr,2002,1.5106206782849154
+max_air_temperature,2002,15.119265248525313
+max_relative_humidity,2002,1.3023330249312428
+min_air_temperature,2002,1.180251630481124
+min_relative_humidity,2002,1.7129862432184517
+precipitation_amount,2002,1.530522848738091
+specific_humidity,2002,1.2244695519094166
+surface_downwelling_shortwave_flux_in_air,2002,1.8142525411837578
+wind_speed,2002,1.2091968208196413
+SWE,2002,3.540713354634575
+population_density,2002,12.528685774003526
+LAI,2002,1.9202018934004148
+slope_max,2002,2.619502644459896
+road_density_km_km2,2002,3.7645304719068617
+line_density_km_per_cell,2002,2.502797173582332
+wind_direction_category_N,2002,2.11499700669664
+wind_direction_category_NE,2002,1.2841553685113696
+wind_direction_category_E,2002,0.4464120286750965
+wind_direction_category_SE,2002,1.5904379279034908
+wind_direction_category_S,2002,1.3338881850693078
+wind_direction_category_SW,2002,1.7373633419980503
+wind_direction_category_W,2002,0.8733004315729301
+wind_direction_category_NW,2002,0.9173010948701056
+veg_Barren ,2002,1.8707617493214799
+veg_Native Chapparal ,2002,2.9659084355067544
+veg_Native Coastal Sage Scrub ,2002,2.9919455337017373
+veg_Native Conifer Alpine ,2002,1.991651096276594
+veg_Native Conifer Forest ,2002,1.2429180077015334
+veg_Native Desert ,2002,2.067469617933426
+veg_Native Grassland ,2002,4.787626260662998
+veg_Native Inland Scrub ,2002,3.8910848798659767
+veg_Native Oak Woodland ,2002,1.7752279728510572
+veg_Native Wetland ,2002,1.5075905533538345
+veg_Non-native forest ,2002,1.8507457208782339
+veg_Non-native grassland ,2002,2.807630510769665
+veg_Non-native shrub ,2002,1.6875508395764276
+dead_fuel_moisture_1000hr,2003,4.02574656973047
+dead_fuel_moisture_100hr,2003,1.4120665434492063
+max_air_temperature,2003,14.208572833815328
+max_relative_humidity,2003,1.1353652780031116
+min_air_temperature,2003,1.242680476749341
+min_relative_humidity,2003,1.9017801357239732
+precipitation_amount,2003,1.3180501273465752
+specific_humidity,2003,0.9851738182377503
+surface_downwelling_shortwave_flux_in_air,2003,1.9026698355015514
+wind_speed,2003,1.230940323937688
+SWE,2003,3.886025009257707
+population_density,2003,12.805328987102103
+LAI,2003,1.6897379156397132
+slope_max,2003,2.606199456446403
+road_density_km_km2,2003,3.8798617012235175
+line_density_km_per_cell,2003,2.288552800665986
+wind_direction_category_N,2003,1.9866876857393116
+wind_direction_category_NE,2003,1.2882045031392841
+wind_direction_category_E,2003,0.9266928675526798
+wind_direction_category_SE,2003,1.0826089649558608
+wind_direction_category_S,2003,1.037537071427915
+wind_direction_category_SW,2003,2.206103805848817
+wind_direction_category_W,2003,1.1370052711519083
+wind_direction_category_NW,2003,0.9560984236212681
+veg_Barren ,2003,1.9821860726427716
+veg_Native Chapparal ,2003,2.691785720712439
+veg_Native Coastal Sage Scrub ,2003,1.8830015410469692
+veg_Native Conifer Alpine ,2003,1.7465468722331023
+veg_Native Conifer Forest ,2003,1.5919701062463747
+veg_Native Desert ,2003,3.60476452901788
+veg_Native Grassland ,2003,4.330794858906839
+veg_Native Inland Scrub ,2003,4.003337376126474
+veg_Native Oak Woodland ,2003,1.873319747733963
+veg_Native Wetland ,2003,1.337422688949672
+veg_Non-native forest ,2003,2.0645375197581823
+veg_Non-native grassland ,2003,3.6181790300135646
+veg_Non-native shrub ,2003,2.1324635303442987
+dead_fuel_moisture_1000hr,2004,3.781946110555005
+dead_fuel_moisture_100hr,2004,1.5479796830040555
+max_air_temperature,2004,14.57335736132631
+max_relative_humidity,2004,1.0839328948794782
+min_air_temperature,2004,1.2350361199221485
+min_relative_humidity,2004,1.6863760257635168
+precipitation_amount,2004,1.2159322279778848
+specific_humidity,2004,1.0575339136488457
+surface_downwelling_shortwave_flux_in_air,2004,1.6891416860227408
+wind_speed,2004,1.1907980250036716
+SWE,2004,4.446642199771581
+population_density,2004,12.887665151038263
+LAI,2004,1.6518905650015996
+slope_max,2004,2.3779789406127163
+road_density_km_km2,2004,3.9458915348405315
+line_density_km_per_cell,2004,2.5189829016861647
+wind_direction_category_N,2004,2.279004102563045
+wind_direction_category_NE,2004,0.9491997017451888
+wind_direction_category_E,2004,0.8653397090621767
+wind_direction_category_SE,2004,1.075944177055681
+wind_direction_category_S,2004,0.8830572293206326
+wind_direction_category_SW,2004,1.4376824897964648
+wind_direction_category_W,2004,0.9509639869900549
+wind_direction_category_NW,2004,1.3348349600467049
+veg_Barren ,2004,1.3822324920039242
+veg_Native Chapparal ,2004,2.8371843476352367
+veg_Native Coastal Sage Scrub ,2004,2.3118877469705783
+veg_Native Conifer Alpine ,2004,2.160515732569132
+veg_Native Conifer Forest ,2004,1.9902394814539597
+veg_Native Desert ,2004,2.1572980812004214
+veg_Native Grassland ,2004,5.71218248103222
+veg_Native Inland Scrub ,2004,4.065853192211891
+veg_Native Oak Woodland ,2004,1.5103472544325016
+veg_Native Wetland ,2004,1.3930107755912668
+veg_Non-native forest ,2004,1.9469798152169888
+veg_Non-native grassland ,2004,3.642741112464173
+veg_Non-native shrub ,2004,2.2224157895832435
+dead_fuel_moisture_1000hr,2005,4.212710274849647
+dead_fuel_moisture_100hr,2005,1.6258789912826026
+max_air_temperature,2005,13.863414415521174
+max_relative_humidity,2005,1.1162127998403932
+min_air_temperature,2005,1.401615681370832
+min_relative_humidity,2005,1.5438564222459685
+precipitation_amount,2005,1.1477641440329187
+specific_humidity,2005,1.1409424091106501
+surface_downwelling_shortwave_flux_in_air,2005,1.8224612341869462
+wind_speed,2005,1.2201894990687197
+SWE,2005,3.7592108387377605
+population_density,2005,12.757663904495221
+LAI,2005,1.698546160310958
+slope_max,2005,2.6340868983766286
+road_density_km_km2,2005,3.9223465202829346
+line_density_km_per_cell,2005,2.5834265720413914
+wind_direction_category_N,2005,2.672691617602583
+wind_direction_category_NE,2005,1.2793832790088862
+wind_direction_category_E,2005,0.5596855632496214
+wind_direction_category_SE,2005,0.9867952043295651
+wind_direction_category_S,2005,1.262181899627559
+wind_direction_category_SW,2005,1.3986617170252023
+wind_direction_category_W,2005,1.0200228060674281
+wind_direction_category_NW,2005,1.1259315843515076
+veg_Barren ,2005,1.4217082124387472
+veg_Native Chapparal ,2005,2.186279085390711
+veg_Native Coastal Sage Scrub ,2005,2.831258194268932
+veg_Native Conifer Alpine ,2005,1.6989196449714092
+veg_Native Conifer Forest ,2005,1.7216531092226415
+veg_Native Desert ,2005,1.984558884934814
+veg_Native Grassland ,2005,4.295911097309758
+veg_Native Inland Scrub ,2005,6.803478555621077
+veg_Native Oak Woodland ,2005,1.1303256689808432
+veg_Native Wetland ,2005,0.7447475811220995
+veg_Non-native forest ,2005,2.487051015518652
+veg_Non-native grassland ,2005,3.6436482265911767
+veg_Non-native shrub ,2005,2.29478028661204
+dead_fuel_moisture_1000hr,2006,4.00599881043726
+dead_fuel_moisture_100hr,2006,1.6091883955447612
+max_air_temperature,2006,14.27711049436988
+max_relative_humidity,2006,1.1817786199022124
+min_air_temperature,2006,1.4770522968968551
+min_relative_humidity,2006,1.6106167232014965
+precipitation_amount,2006,1.3755988213085597
+specific_humidity,2006,1.1787834468234322
+surface_downwelling_shortwave_flux_in_air,2006,1.8475707469969085
+wind_speed,2006,1.2835533754089175
+SWE,2006,4.21576880096098
+population_density,2006,12.087708076323567
+LAI,2006,1.7179656462074622
+slope_max,2006,2.3868815365185987
+road_density_km_km2,2006,4.097357686623181
+line_density_km_per_cell,2006,2.4680288705386566
+wind_direction_category_N,2006,1.8789886398649283
+wind_direction_category_NE,2006,1.2674529521302857
+wind_direction_category_E,2006,0.8886844089428936
+wind_direction_category_SE,2006,1.250921966858807
+wind_direction_category_S,2006,1.1340676139748114
+wind_direction_category_SW,2006,1.6465389448915615
+wind_direction_category_W,2006,0.8887017627487055
+wind_direction_category_NW,2006,1.3328127785684012
+veg_Barren ,2006,1.3890029947220361
+veg_Native Chapparal ,2006,2.2478917789591377
+veg_Native Coastal Sage Scrub ,2006,1.961405459499335
+veg_Native Conifer Alpine ,2006,1.7215527247709623
+veg_Native Conifer Forest ,2006,1.9408440137428915
+veg_Native Desert ,2006,2.6645486831329066
+veg_Native Grassland ,2006,4.432510956565673
+veg_Native Inland Scrub ,2006,4.929522704294089
+veg_Native Oak Woodland ,2006,1.6986003623272974
+veg_Native Wetland ,2006,1.7155741041578692
+veg_Non-native forest ,2006,2.2767008163534337
+veg_Non-native grassland ,2006,3.155056349515492
+veg_Non-native shrub ,2006,2.7576576359157516
+dead_fuel_moisture_1000hr,2007,3.3119851929100856
+dead_fuel_moisture_100hr,2007,1.6034650034762825
+max_air_temperature,2007,15.438229008505418
+max_relative_humidity,2007,0.9989604895403909
+min_air_temperature,2007,1.3628303485727244
+min_relative_humidity,2007,1.3297173383007757
+precipitation_amount,2007,1.2981245186716903
+specific_humidity,2007,1.0791451327881367
+surface_downwelling_shortwave_flux_in_air,2007,1.63619000982734
+wind_speed,2007,1.2133578688218207
+SWE,2007,3.218982832869697
+population_density,2007,12.308808524883846
+LAI,2007,1.8747173820129777
+slope_max,2007,2.1856204189089126
+road_density_km_km2,2007,3.6874491758459578
+line_density_km_per_cell,2007,2.135691434961382
+wind_direction_category_N,2007,1.421940348143508
+wind_direction_category_NE,2007,1.0419691256531893
+wind_direction_category_E,2007,0.9122215590858997
+wind_direction_category_SE,2007,0.6303158571639625
+wind_direction_category_S,2007,0.9721387375999759
+wind_direction_category_SW,2007,1.7082337640674818
+wind_direction_category_W,2007,1.1082247914404812
+wind_direction_category_NW,2007,1.340436273585
+veg_Barren ,2007,1.2632155007374575
+veg_Native Chapparal ,2007,2.2158257248913045
+veg_Native Coastal Sage Scrub ,2007,2.413222937624594
+veg_Native Conifer Alpine ,2007,1.396581603496567
+veg_Native Conifer Forest ,2007,2.2370857239993893
+veg_Native Desert ,2007,2.9211501512744453
+veg_Native Grassland ,2007,3.808226513189715
+veg_Native Inland Scrub ,2007,10.353755875629112
+veg_Native Oak Woodland ,2007,1.1453553134715937
+veg_Native Wetland ,2007,1.242554509929715
+veg_Non-native forest ,2007,1.9540922305606605
+veg_Non-native grassland ,2007,2.805385475821037
+veg_Non-native shrub ,2007,2.4247933017374717
+dead_fuel_moisture_1000hr,2008,4.624019488794259
+dead_fuel_moisture_100hr,2008,1.7956221789482292
+max_air_temperature,2008,12.753908603255395
+max_relative_humidity,2008,1.0532351383524061
+min_air_temperature,2008,1.4371661063901888
+min_relative_humidity,2008,1.5643612984895146
+precipitation_amount,2008,1.3509488878097888
+specific_humidity,2008,1.0580693500715244
+surface_downwelling_shortwave_flux_in_air,2008,1.8667407933071103
+wind_speed,2008,1.2768662701500766
+SWE,2008,5.333184345188793
+population_density,2008,15.007584166146456
+LAI,2008,2.1876993454986904
+slope_max,2008,2.63121176432361
+road_density_km_km2,2008,3.8725389741685734
+line_density_km_per_cell,2008,2.3622651139340807
+wind_direction_category_N,2008,2.9381723076530886
+wind_direction_category_NE,2008,1.3761502186516759
+wind_direction_category_E,2008,0.9278459365318031
+wind_direction_category_SE,2008,0.8292908755059812
+wind_direction_category_S,2008,1.233691742601094
+wind_direction_category_SW,2008,1.208825257967068
+wind_direction_category_W,2008,1.2161448121489165
+wind_direction_category_NW,2008,1.2459230184827865
+veg_Barren ,2008,1.206138760489553
+veg_Native Chapparal ,2008,2.451926001269314
+veg_Native Coastal Sage Scrub ,2008,2.038688069033718
+veg_Native Conifer Alpine ,2008,1.3885844269455174
+veg_Native Conifer Forest ,2008,2.0685437080701674
+veg_Native Desert ,2008,2.3757475230041565
+veg_Native Grassland ,2008,3.4023017631258683
+veg_Native Inland Scrub ,2008,3.941243882906332
+veg_Native Oak Woodland ,2008,1.2991219898899489
+veg_Native Wetland ,2008,1.331920535293293
+veg_Non-native forest ,2008,1.9231944884014347
+veg_Non-native grassland ,2008,2.501711828789426
+veg_Non-native shrub ,2008,2.9194110284101598
+dead_fuel_moisture_1000hr,2009,5.150709520200823
+dead_fuel_moisture_100hr,2009,2.023726059912733
+max_air_temperature,2009,10.285527810423385
+max_relative_humidity,2009,1.0534197992306755
+min_air_temperature,2009,1.5430710976616933
+min_relative_humidity,2009,1.425678295835728
+precipitation_amount,2009,1.3335729956551752
+specific_humidity,2009,1.0793241899286834
+surface_downwelling_shortwave_flux_in_air,2009,1.8878067884649132
+wind_speed,2009,1.2507983486247525
+SWE,2009,5.827106693512894
+population_density,2009,17.090740669003385
+LAI,2009,2.022425388416475
+slope_max,2009,2.565096673578844
+road_density_km_km2,2009,3.8655515912338894
+line_density_km_per_cell,2009,2.3383775729725453
+wind_direction_category_N,2009,1.1754931886239504
+wind_direction_category_NE,2009,1.2897414761216421
+wind_direction_category_E,2009,0.6015013228723028
+wind_direction_category_SE,2009,0.9379735800862347
+wind_direction_category_S,2009,0.9040932023997893
+wind_direction_category_SW,2009,1.3857309425543376
+wind_direction_category_W,2009,0.91425034889403
+wind_direction_category_NW,2009,1.618044790410797
+veg_Barren ,2009,1.5467490342889103
+veg_Native Chapparal ,2009,2.3857307445738978
+veg_Native Coastal Sage Scrub ,2009,2.3592958562879907
+veg_Native Conifer Alpine ,2009,2.5674991362203397
+veg_Native Conifer Forest ,2009,2.493141432612741
+veg_Native Desert ,2009,1.8235487870269393
+veg_Native Grassland ,2009,3.56255902629332
+veg_Native Inland Scrub ,2009,3.260807138776303
+veg_Native Oak Woodland ,2009,1.5977555449476704
+veg_Native Wetland ,2009,1.3043020375672925
+veg_Non-native forest ,2009,2.1053307475328054
+veg_Non-native grassland ,2009,2.625435712202506
+veg_Non-native shrub ,2009,2.798082455049606
+dead_fuel_moisture_1000hr,2010,3.6836456545020813
+dead_fuel_moisture_100hr,2010,2.0961892916580562
+max_air_temperature,2010,9.314385588376767
+max_relative_humidity,2010,1.1257169289869957
+min_air_temperature,2010,1.3432196869954027
+min_relative_humidity,2010,1.3271242698049248
+precipitation_amount,2010,1.144939286324966
+specific_humidity,2010,1.034951481332502
+surface_downwelling_shortwave_flux_in_air,2010,1.683158276506703
+wind_speed,2010,1.0078887482218843
+SWE,2010,4.8789768187022915
+population_density,2010,16.943367732354886
+LAI,2010,1.9536557207189928
+slope_max,2010,2.3566464095148
+road_density_km_km2,2010,3.7546950357053777
+line_density_km_per_cell,2010,2.072057557022391
+wind_direction_category_N,2010,1.016116631470994
+wind_direction_category_NE,2010,1.0497574759036847
+wind_direction_category_E,2010,0.3758413759989715
+wind_direction_category_SE,2010,0.9873455731437439
+wind_direction_category_S,2010,0.8035325581633728
+wind_direction_category_SW,2010,1.7308902513865847
+wind_direction_category_W,2010,1.2016368603362853
+wind_direction_category_NW,2010,0.9794978347985024
+veg_Barren ,2010,1.8536629553147947
+veg_Native Chapparal ,2010,3.474797808953268
+veg_Native Coastal Sage Scrub ,2010,2.5136247922185206
+veg_Native Conifer Alpine ,2010,1.7070814975298316
+veg_Native Conifer Forest ,2010,2.4019162289858915
+veg_Native Desert ,2010,1.6212591838737962
+veg_Native Grassland ,2010,2.80887284391381
+veg_Native Inland Scrub ,2010,9.6276955587276
+veg_Native Oak Woodland ,2010,0.996866977047838
+veg_Native Wetland ,2010,0.8587403920142391
+veg_Non-native forest ,2010,2.688294186618777
+veg_Non-native grassland ,2010,2.3539064211779137
+veg_Non-native shrub ,2010,3.2280441056925566
+dead_fuel_moisture_1000hr,2011,4.176829280835581
+dead_fuel_moisture_100hr,2011,2.159132949708266
+max_air_temperature,2011,8.842519464567877
+max_relative_humidity,2011,1.0462330372692095
+min_air_temperature,2011,1.325694443033742
+min_relative_humidity,2011,1.3161418276004797
+precipitation_amount,2011,1.152409722904925
+specific_humidity,2011,1.0910759073436902
+surface_downwelling_shortwave_flux_in_air,2011,1.7131781007606557
+wind_speed,2011,1.1069932318259088
+SWE,2011,6.698139514687134
+population_density,2011,16.91542019002698
+LAI,2011,1.8432234418176188
+slope_max,2011,2.4582294330644454
+road_density_km_km2,2011,4.095394600878669
+line_density_km_per_cell,2011,2.239948383761287
+wind_direction_category_N,2011,1.1663422574986384
+wind_direction_category_NE,2011,0.6959378720008552
+wind_direction_category_E,2011,0.8769230928887803
+wind_direction_category_SE,2011,1.0164937883236966
+wind_direction_category_S,2011,1.0099652994098147
+wind_direction_category_SW,2011,1.2952585780351973
+wind_direction_category_W,2011,1.1059929005692097
+wind_direction_category_NW,2011,1.0965904700620634
+veg_Barren ,2011,2.241708750392899
+veg_Native Chapparal ,2011,2.1721127709199584
+veg_Native Coastal Sage Scrub ,2011,2.935978929114655
+veg_Native Conifer Alpine ,2011,2.1946457769864343
+veg_Native Conifer Forest ,2011,2.1797660808705284
+veg_Native Desert ,2011,1.1724984159155947
+veg_Native Grassland ,2011,3.799069919130457
+veg_Native Inland Scrub ,2011,7.527294690326675
+veg_Native Oak Woodland ,2011,1.3067149119679382
+veg_Native Wetland ,2011,0.0
+veg_Non-native forest ,2011,2.2319175473424133
+veg_Non-native grassland ,2011,2.5800554591791443
+veg_Non-native shrub ,2011,3.214168958978579
+dead_fuel_moisture_1000hr,2012,4.574141853762202
+dead_fuel_moisture_100hr,2012,2.426645559103319
+max_air_temperature,2012,9.1427141248386
+max_relative_humidity,2012,1.2602776677379657
+min_air_temperature,2012,1.5265604650115159
+min_relative_humidity,2012,1.4717053208825
+precipitation_amount,2012,1.448202762803492
+specific_humidity,2012,1.1945936272271434
+surface_downwelling_shortwave_flux_in_air,2012,1.8062288577964718
+wind_speed,2012,1.126926615004085
+SWE,2012,4.154309444833825
+population_density,2012,17.53573444509505
+LAI,2012,2.0530216125538123
+slope_max,2012,2.813491224459064
+road_density_km_km2,2012,4.233866101442506
+line_density_km_per_cell,2012,2.4488479120918623
+wind_direction_category_N,2012,0.939613792555731
+wind_direction_category_NE,2012,0.9275142556490866
+wind_direction_category_E,2012,1.0634476778208932
+wind_direction_category_SE,2012,0.9774148713218276
+wind_direction_category_S,2012,1.1269744587366315
+wind_direction_category_SW,2012,1.416701877077518
+wind_direction_category_W,2012,1.1408589165556686
+wind_direction_category_NW,2012,1.3781482529567999
+veg_Barren ,2012,2.2766654713747223
+veg_Native Chapparal ,2012,2.8856198634286745
+veg_Native Coastal Sage Scrub ,2012,2.655421254299625
+veg_Native Conifer Alpine ,2012,2.668164217881844
+veg_Native Conifer Forest ,2012,2.2695435900442384
+veg_Native Desert ,2012,1.4972448139534769
+veg_Native Grassland ,2012,2.8794573999375603
+veg_Native Inland Scrub ,2012,4.045820840723142
+veg_Native Oak Woodland ,2012,1.5009910894763572
+veg_Native Wetland ,2012,0.48181003044766796
+veg_Non-native forest ,2012,2.96684199056766
+veg_Non-native grassland ,2012,2.6231976262085728
+veg_Non-native shrub ,2012,3.0612801143388912
+dead_fuel_moisture_1000hr,2013,4.683388011404147
+dead_fuel_moisture_100hr,2013,2.73210483209448
+max_air_temperature,2013,6.7871861282568355
+max_relative_humidity,2013,1.2410502987772258
+min_air_temperature,2013,1.235941554893647
+min_relative_humidity,2013,1.598672451481176
+precipitation_amount,2013,1.3442332617918686
+specific_humidity,2013,1.167229527369958
+surface_downwelling_shortwave_flux_in_air,2013,1.6774820821612244
+wind_speed,2013,1.313724566969322
+SWE,2013,4.063010120020648
+population_density,2013,16.49949224253398
+LAI,2013,2.098835700433907
+slope_max,2013,2.80156129187151
+road_density_km_km2,2013,4.112862576766155
+line_density_km_per_cell,2013,2.277659804350316
+wind_direction_category_N,2013,0.9342490626533625
+wind_direction_category_NE,2013,0.7349691235905396
+wind_direction_category_E,2013,0.6530118627443076
+wind_direction_category_SE,2013,1.0725565106413717
+wind_direction_category_S,2013,1.1924877260006854
+wind_direction_category_SW,2013,1.5001770853117897
+wind_direction_category_W,2013,1.4957266211572329
+wind_direction_category_NW,2013,0.9876932499311863
+veg_Barren ,2013,1.9733469105782713
+veg_Native Chapparal ,2013,3.727198591619166
+veg_Native Coastal Sage Scrub ,2013,2.4657023059138776
+veg_Native Conifer Alpine ,2013,2.295298661323072
+veg_Native Conifer Forest ,2013,2.0478493803125306
+veg_Native Desert ,2013,1.5000620084926273
+veg_Native Grassland ,2013,2.5841720301608246
+veg_Native Inland Scrub ,2013,8.63607978526188
+veg_Native Oak Woodland ,2013,1.9805447950178146
+veg_Native Wetland ,2013,0.9809680799725146
+veg_Non-native forest ,2013,2.4843880207428946
+veg_Non-native grassland ,2013,2.7048672966651557
+veg_Non-native shrub ,2013,2.4142164407324986
+dead_fuel_moisture_1000hr,2014,4.077445511247795
+dead_fuel_moisture_100hr,2014,3.0004713965495338
+max_air_temperature,2014,6.829998343049352
+max_relative_humidity,2014,1.442555268338103
+min_air_temperature,2014,1.344955858138807
+min_relative_humidity,2014,1.566442311730398
+precipitation_amount,2014,1.183422386888529
+specific_humidity,2014,1.196855200738451
+surface_downwelling_shortwave_flux_in_air,2014,1.8154396673125444
+wind_speed,2014,1.2464464351380855
+SWE,2014,4.41502901763027
+population_density,2014,15.753698596602392
+LAI,2014,2.0367954460413693
+slope_max,2014,2.6381595114244587
+road_density_km_km2,2014,4.171091696898556
+line_density_km_per_cell,2014,2.157595719398966
+wind_direction_category_N,2014,0.9837269791660546
+wind_direction_category_NE,2014,1.040503677951875
+wind_direction_category_E,2014,0.8406608167473169
+wind_direction_category_SE,2014,0.990705645002816
+wind_direction_category_S,2014,1.1015373521531915
+wind_direction_category_SW,2014,2.1793609774393774
+wind_direction_category_W,2014,1.819745904093131
+wind_direction_category_NW,2014,1.5443867753104583
+veg_Barren ,2014,3.1606362945058972
+veg_Native Chapparal ,2014,2.267245071133866
+veg_Native Coastal Sage Scrub ,2014,2.4020327619651414
+veg_Native Conifer Alpine ,2014,2.262125360602904
+veg_Native Conifer Forest ,2014,2.090601915941448
+veg_Native Desert ,2014,1.2814448166625476
+veg_Native Grassland ,2014,2.351467954378587
+veg_Native Inland Scrub ,2014,8.291715290568204
+veg_Native Oak Woodland ,2014,1.6567552552144127
+veg_Native Wetland ,2014,0.530860389662853
+veg_Non-native forest ,2014,2.413409823008792
+veg_Non-native grassland ,2014,3.120471420684297
+veg_Non-native shrub ,2014,2.794203150679217
+dead_fuel_moisture_1000hr,2015,3.0913262620549395
+dead_fuel_moisture_100hr,2015,3.0408978658451837
+max_air_temperature,2015,7.368085268375177
+max_relative_humidity,2015,1.3906775349501246
+min_air_temperature,2015,1.1937620617299487
+min_relative_humidity,2015,1.544660734398229
+precipitation_amount,2015,1.1631290243439376
+specific_humidity,2015,1.2104426367010395
+surface_downwelling_shortwave_flux_in_air,2015,1.63556798114708
+wind_speed,2015,1.3716741238747836
+SWE,2015,3.6080188097068344
+population_density,2015,13.957598841983533
+LAI,2015,2.2588722819398224
+slope_max,2015,3.110208388579273
+road_density_km_km2,2015,3.748776639724895
+line_density_km_per_cell,2015,2.168671855577235
+wind_direction_category_N,2015,0.9523161143336474
+wind_direction_category_NE,2015,1.081877765506615
+wind_direction_category_E,2015,1.1627291890223808
+wind_direction_category_SE,2015,1.2468308980888876
+wind_direction_category_S,2015,1.1332521285581312
+wind_direction_category_SW,2015,1.792488074589016
+wind_direction_category_W,2015,1.4530822101308116
+wind_direction_category_NW,2015,1.4614624284924125
+veg_Barren ,2015,2.9746385886027285
+veg_Native Chapparal ,2015,2.6645587493611007
+veg_Native Coastal Sage Scrub ,2015,2.322235473666173
+veg_Native Conifer Alpine ,2015,1.6863309191140297
+veg_Native Conifer Forest ,2015,2.4138070648803853
+veg_Native Desert ,2015,1.6906692552171543
+veg_Native Grassland ,2015,3.799220832764739
+veg_Native Inland Scrub ,2015,10.204975498611914
+veg_Native Oak Woodland ,2015,1.2942364831011677
+veg_Native Wetland ,2015,1.0600701538101802
+veg_Non-native forest ,2015,1.9670562110847558
+veg_Non-native grassland ,2015,2.5208074200413937
+veg_Non-native shrub ,2015,3.2549842300903435
+dead_fuel_moisture_1000hr,2016,3.053731098531419
+dead_fuel_moisture_100hr,2016,3.795917333700722
+max_air_temperature,2016,6.320990962864584
+max_relative_humidity,2016,1.3382084938135117
+min_air_temperature,2016,1.2020502378804543
+min_relative_humidity,2016,1.487382973412267
+precipitation_amount,2016,1.127548054866028
+specific_humidity,2016,1.2343956966035528
+surface_downwelling_shortwave_flux_in_air,2016,1.913712013245675
+wind_speed,2016,1.3517738754316986
+SWE,2016,3.381186535640579
+population_density,2016,15.1762444537421
+LAI,2016,2.352234922853201
+slope_max,2016,2.7447546974400523
+road_density_km_km2,2016,3.441004552181965
+line_density_km_per_cell,2016,2.2412854695252826
+wind_direction_category_N,2016,0.7889145426708923
+wind_direction_category_NE,2016,1.2367267596248475
+wind_direction_category_E,2016,1.069123770965647
+wind_direction_category_SE,2016,1.4001051229944068
+wind_direction_category_S,2016,1.0849980870106697
+wind_direction_category_SW,2016,1.3445706491254086
+wind_direction_category_W,2016,1.4060865742791333
+wind_direction_category_NW,2016,1.3452945307716464
+veg_Barren ,2016,2.535939506663013
+veg_Native Chapparal ,2016,2.2566071239236933
+veg_Native Coastal Sage Scrub ,2016,2.798261454436797
+veg_Native Conifer Alpine ,2016,1.7390146894054177
+veg_Native Conifer Forest ,2016,3.0219500111695003
+veg_Native Desert ,2016,1.5698380810727566
+veg_Native Grassland ,2016,3.608239191945901
+veg_Native Inland Scrub ,2016,9.991527311551087
+veg_Native Oak Woodland ,2016,2.0654144081539325
+veg_Native Wetland ,2016,0.7317749158813291
+veg_Non-native forest ,2016,2.1861852693225408
+veg_Non-native grassland ,2016,3.770250376987806
+veg_Non-native shrub ,2016,1.8867562503104802
+dead_fuel_moisture_1000hr,2017,2.628763367576562
+dead_fuel_moisture_100hr,2017,4.85282620228628
+max_air_temperature,2017,5.729847906262191
+max_relative_humidity,2017,1.4544294931681083
+min_air_temperature,2017,1.494652624719284
+min_relative_humidity,2017,1.5286130158031463
+precipitation_amount,2017,1.008655388915051
+specific_humidity,2017,1.2411166669393552
+surface_downwelling_shortwave_flux_in_air,2017,1.982507926394167
+wind_speed,2017,1.3550696442567534
+SWE,2017,3.1348648626418605
+population_density,2017,16.287420676446544
+LAI,2017,2.6288083603238825
+slope_max,2017,2.859270056827844
+road_density_km_km2,2017,4.114578282289572
+line_density_km_per_cell,2017,2.047025603284856
+wind_direction_category_N,2017,0.6186873369910902
+wind_direction_category_NE,2017,1.2746181896835573
+wind_direction_category_E,2017,0.6954315526202661
+wind_direction_category_SE,2017,1.069593162104938
+wind_direction_category_S,2017,1.1851307878284998
+wind_direction_category_SW,2017,1.323132100173685
+wind_direction_category_W,2017,1.2158084388482437
+wind_direction_category_NW,2017,1.2821650500781367
+veg_Barren ,2017,1.9271635784860255
+veg_Native Chapparal ,2017,2.2677129138484755
+veg_Native Coastal Sage Scrub ,2017,2.03179459693336
+veg_Native Conifer Alpine ,2017,2.5701735812837043
+veg_Native Conifer Forest ,2017,3.670102622577778
+veg_Native Desert ,2017,1.1083202848077054
+veg_Native Grassland ,2017,2.763194005502447
+veg_Native Inland Scrub ,2017,10.216363925747933
+veg_Native Oak Woodland ,2017,1.7184779871318137
+veg_Native Wetland ,2017,1.2355275678833135
+veg_Non-native forest ,2017,2.458472933206105
+veg_Non-native grassland ,2017,2.8477959448776144
+veg_Non-native shrub ,2017,2.1718833612498507
+dead_fuel_moisture_1000hr,2018,2.858392881423843
+dead_fuel_moisture_100hr,2018,5.420811273471528
+max_air_temperature,2018,4.8816170740388065
+max_relative_humidity,2018,1.4172427286887332
+min_air_temperature,2018,1.4440400162187224
+min_relative_humidity,2018,1.3695694567805314
+precipitation_amount,2018,0.958797212137884
+specific_humidity,2018,1.226569242483052
+surface_downwelling_shortwave_flux_in_air,2018,2.0505972604545657
+wind_speed,2018,1.3202172436758743
+SWE,2018,2.564299200074213
+population_density,2018,15.26305124957644
+LAI,2018,2.734263453378892
+slope_max,2018,2.6250628809834056
+road_density_km_km2,2018,3.7812572404222973
+line_density_km_per_cell,2018,2.147088118865001
+wind_direction_category_N,2018,1.2865077126000073
+wind_direction_category_NE,2018,0.870354551069058
+wind_direction_category_E,2018,1.0200395023008884
+wind_direction_category_SE,2018,1.1458120130073621
+wind_direction_category_S,2018,1.0607107914281229
+wind_direction_category_SW,2018,1.2507309276955163
+wind_direction_category_W,2018,0.9331317909022351
+wind_direction_category_NW,2018,1.3234079101027794
+veg_Barren ,2018,2.0810811026484255
+veg_Native Chapparal ,2018,2.738045506938904
+veg_Native Coastal Sage Scrub ,2018,2.309888654390482
+veg_Native Conifer Alpine ,2018,2.3026277655554828
+veg_Native Conifer Forest ,2018,2.812762617029194
+veg_Native Desert ,2018,1.6701220406126465
+veg_Native Grassland ,2018,3.8753946270089625
+veg_Native Inland Scrub ,2018,11.283860470193293
+veg_Native Oak Woodland ,2018,1.6513704421847764
+veg_Native Wetland ,2018,1.2364179841875065
+veg_Non-native forest ,2018,1.9811405788592944
+veg_Non-native grassland ,2018,3.3238145551786875
+veg_Non-native shrub ,2018,1.779901923432584
+dead_fuel_moisture_1000hr,2019,3.482001537116646
+dead_fuel_moisture_100hr,2019,4.3036660216545854
+max_air_temperature,2019,5.645977004246921
+max_relative_humidity,2019,1.5747241408467665
+min_air_temperature,2019,1.5633040863685306
+min_relative_humidity,2019,1.5053262768346252
+precipitation_amount,2019,1.1134342112294655
+specific_humidity,2019,1.386454911912645
+surface_downwelling_shortwave_flux_in_air,2019,2.300412340197466
+wind_speed,2019,1.2642847017017451
+SWE,2019,2.9569146771763477
+population_density,2019,15.852547661373242
+LAI,2019,2.757086619984371
+slope_max,2019,2.640566128781259
+road_density_km_km2,2019,4.100751420110447
+line_density_km_per_cell,2019,2.3816174485071833
+wind_direction_category_N,2019,1.4183991195457146
+wind_direction_category_NE,2019,1.0645446376611876
+wind_direction_category_E,2019,1.2500247231324673
+wind_direction_category_SE,2019,1.02082590880726
+wind_direction_category_S,2019,1.2206302218155205
+wind_direction_category_SW,2019,1.3468082108005837
+wind_direction_category_W,2019,1.216093486478064
+wind_direction_category_NW,2019,1.7669336073265811
+veg_Barren ,2019,2.5127725376487104
+veg_Native Chapparal ,2019,3.104371046328409
+veg_Native Coastal Sage Scrub ,2019,1.6897570290104091
+veg_Native Conifer Alpine ,2019,2.51655604362878
+veg_Native Conifer Forest ,2019,2.863797969879276
+veg_Native Desert ,2019,1.930005468594783
+veg_Native Grassland ,2019,4.209802669521662
+veg_Native Inland Scrub ,2019,7.791276772995033
+veg_Native Oak Woodland ,2019,0.963220723332936
+veg_Native Wetland ,2019,0.0
+veg_Non-native forest ,2019,2.6659913607984733
+veg_Non-native grassland ,2019,3.0051824125215014
+veg_Non-native shrub ,2019,1.6139368621304
+dead_fuel_moisture_1000hr,2020,3.9190933186423513
+dead_fuel_moisture_100hr,2020,3.866192495508152
+max_air_temperature,2020,4.663618337311318
+max_relative_humidity,2020,1.522178988341157
+min_air_temperature,2020,1.43739010830248
+min_relative_humidity,2020,1.7264050490121785
+precipitation_amount,2020,1.1247499658530673
+specific_humidity,2020,1.3893080156765274
+surface_downwelling_shortwave_flux_in_air,2020,2.225622628662856
+wind_speed,2020,1.3647446865575845
+SWE,2020,2.6914709030285904
+population_density,2020,16.06519438589458
+LAI,2020,2.670441282376224
+slope_max,2020,2.581181077231822
+road_density_km_km2,2020,3.983064535161926
+line_density_km_per_cell,2020,2.4837057200461428
+wind_direction_category_N,2020,1.4281132297825765
+wind_direction_category_NE,2020,1.2196117639005775
+wind_direction_category_E,2020,0.7729354974416777
+wind_direction_category_SE,2020,1.2350543988161282
+wind_direction_category_S,2020,1.0677611791173076
+wind_direction_category_SW,2020,1.7241753621182536
+wind_direction_category_W,2020,0.9995296752931278
+wind_direction_category_NW,2020,1.4499731095092427
+veg_Barren ,2020,2.3754882731986116
+veg_Native Chapparal ,2020,3.4041328910570074
+veg_Native Coastal Sage Scrub ,2020,1.9552640016010598
+veg_Native Conifer Alpine ,2020,2.4137790698959285
+veg_Native Conifer Forest ,2020,2.4263782104892244
+veg_Native Desert ,2020,1.7056743134547188
+veg_Native Grassland ,2020,4.156888996857753
+veg_Native Inland Scrub ,2020,7.842234967456043
+veg_Native Oak Woodland ,2020,1.5594573960515907
+veg_Native Wetland ,2020,0.863887529101593
+veg_Non-native forest ,2020,2.6811541577054916
+veg_Non-native grassland ,2020,2.5629707418219114
+veg_Non-native shrub ,2020,2.4411737377232186
