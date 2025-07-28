@@ -1,0 +1,581 @@
+feature,year,relative_importance
+dead_fuel_moisture_1000hr,2001,2.4732595042353838
+dead_fuel_moisture_100hr,2001,1.283226345959359
+max_air_temperature,2001,10.756765165601267
+max_relative_humidity,2001,0.9152294217597193
+min_air_temperature,2001,0.8824594724446116
+min_relative_humidity,2001,1.1566248059633155
+precipitation_amount,2001,4.052268635631206
+specific_humidity,2001,0.8802192162064912
+surface_downwelling_shortwave_flux_in_air,2001,1.5189308810935114
+wind_speed,2001,0.7913267768755959
+SWE,2001,1.7438172836614476
+wind_direction_category_N,2001,7.742892922768197
+wind_direction_category_NE,2001,5.662279096119813
+wind_direction_category_E,2001,5.305559180750911
+wind_direction_category_SE,2001,6.783281287816296
+wind_direction_category_S,2001,6.359383596534682
+wind_direction_category_SW,2001,6.823445423974777
+wind_direction_category_W,2001,7.159234124653889
+wind_direction_category_NW,2001,7.75247401228505
+LAI,2001,1.4388954302314316
+slope_max,2001,1.495522256834894
+road_density_km_km2,2001,8.052204011942065
+line_density_km_per_cell,2001,1.5028052854729583
+veg_group_Chaparral,2001,1.3152078613409224
+veg_group_Conifer Alpine,2001,0.8846796098190909
+veg_group_Conifer Forest,2001,1.6408764768701785
+veg_group_Grassland,2001,2.676162101654716
+veg_group_Oak Woodland,2001,0.47442393243044634
+veg_group_Shrub,2001,0.4765458790677748
+dead_fuel_moisture_1000hr,2002,2.0334262880659644
+dead_fuel_moisture_100hr,2002,1.3368620550108448
+max_air_temperature,2002,11.115266836819329
+max_relative_humidity,2002,1.0001117622400988
+min_air_temperature,2002,1.2062191616818776
+min_relative_humidity,2002,1.2584625171968027
+precipitation_amount,2002,2.6734302125139475
+specific_humidity,2002,1.0149264466743535
+surface_downwelling_shortwave_flux_in_air,2002,1.6230018979539187
+wind_speed,2002,0.691251403502677
+SWE,2002,1.7473585857108205
+wind_direction_category_N,2002,7.2618450896206355
+wind_direction_category_NE,2002,4.888514387740893
+wind_direction_category_E,2002,5.887313121691668
+wind_direction_category_SE,2002,7.214241580118818
+wind_direction_category_S,2002,6.764532000612596
+wind_direction_category_SW,2002,6.269238848066608
+wind_direction_category_W,2002,5.797570230306322
+wind_direction_category_NW,2002,6.793759377073122
+LAI,2002,1.0623789480644574
+slope_max,2002,1.1399796042552452
+road_density_km_km2,2002,9.712393592255863
+line_density_km_per_cell,2002,1.5485017792826516
+veg_group_Chaparral,2002,0.8972758760628318
+veg_group_Conifer Alpine,2002,0.7225446451596893
+veg_group_Conifer Forest,2002,1.4440021942893608
+veg_group_Grassland,2002,4.8105631190142315
+veg_group_Oak Woodland,2002,0.5138094494144735
+veg_group_Shrub,2002,1.5712189895998996
+dead_fuel_moisture_1000hr,2003,2.5118133176781674
+dead_fuel_moisture_100hr,2003,1.1012300774723736
+max_air_temperature,2003,13.374274093668262
+max_relative_humidity,2003,0.825994861036832
+min_air_temperature,2003,0.9943224778466434
+min_relative_humidity,2003,1.214248195955196
+precipitation_amount,2003,1.825506973973027
+specific_humidity,2003,1.0610028212040135
+surface_downwelling_shortwave_flux_in_air,2003,1.3418405362898245
+wind_speed,2003,0.7483978110526645
+SWE,2003,1.6839827335393098
+wind_direction_category_N,2003,5.366904380095881
+wind_direction_category_NE,2003,5.191173253849323
+wind_direction_category_E,2003,6.199847518411323
+wind_direction_category_SE,2003,7.803765116034757
+wind_direction_category_S,2003,6.124130229541444
+wind_direction_category_SW,2003,5.212702488205144
+wind_direction_category_W,2003,5.62578479983347
+wind_direction_category_NW,2003,5.653524717937021
+LAI,2003,0.8661630545593335
+slope_max,2003,1.0664934690597383
+road_density_km_km2,2003,10.826115197064066
+line_density_km_per_cell,2003,1.8832026417723127
+veg_group_Chaparral,2003,0.8629970956568247
+veg_group_Conifer Alpine,2003,1.826750515333683
+veg_group_Conifer Forest,2003,1.1206941881001984
+veg_group_Grassland,2003,6.055788300320081
+veg_group_Oak Woodland,2003,0.490362000094056
+veg_group_Shrub,2003,1.1409871344150304
+dead_fuel_moisture_1000hr,2004,3.196839747198679
+dead_fuel_moisture_100hr,2004,1.2385096080548537
+max_air_temperature,2004,14.299985903910688
+max_relative_humidity,2004,1.1381130042963707
+min_air_temperature,2004,1.0128350570938132
+min_relative_humidity,2004,1.4957175616775849
+precipitation_amount,2004,1.3973210409861176
+specific_humidity,2004,0.9484771593893732
+surface_downwelling_shortwave_flux_in_air,2004,1.5398878302561192
+wind_speed,2004,0.8250206211665113
+SWE,2004,1.0924605036154587
+wind_direction_category_N,2004,5.518362272695444
+wind_direction_category_NE,2004,4.89008786926177
+wind_direction_category_E,2004,5.768445961442504
+wind_direction_category_SE,2004,6.451529959045803
+wind_direction_category_S,2004,5.619683938129201
+wind_direction_category_SW,2004,5.758553829674402
+wind_direction_category_W,2004,5.614630705003606
+wind_direction_category_NW,2004,5.6290030228418235
+LAI,2004,0.8870192270869073
+slope_max,2004,1.037462064393459
+road_density_km_km2,2004,12.220085072308398
+line_density_km_per_cell,2004,2.3836026231737515
+veg_group_Chaparral,2004,0.7137005249762218
+veg_group_Conifer Alpine,2004,0.9104391144852695
+veg_group_Conifer Forest,2004,1.890757968410012
+veg_group_Grassland,2004,4.645834376141501
+veg_group_Oak Woodland,2004,0.43088195731143014
+veg_group_Shrub,2004,1.4447514759729276
+dead_fuel_moisture_1000hr,2005,2.630549992463621
+dead_fuel_moisture_100hr,2005,0.8700892300683907
+max_air_temperature,2005,11.881706976594723
+max_relative_humidity,2005,0.8799308721225053
+min_air_temperature,2005,5.243697492869782
+min_relative_humidity,2005,1.313582668478082
+precipitation_amount,2005,1.1423095201494189
+specific_humidity,2005,1.0490155456216144
+surface_downwelling_shortwave_flux_in_air,2005,1.6629092939091357
+wind_speed,2005,0.7563556312839237
+SWE,2005,1.0895775986575238
+wind_direction_category_N,2005,5.137991491144916
+wind_direction_category_NE,2005,5.312692322228612
+wind_direction_category_E,2005,5.413709165802523
+wind_direction_category_SE,2005,6.245966543468948
+wind_direction_category_S,2005,5.204223298546179
+wind_direction_category_SW,2005,5.667998575308685
+wind_direction_category_W,2005,5.1883906631550065
+wind_direction_category_NW,2005,5.435456598030328
+LAI,2005,1.0245071790115954
+slope_max,2005,0.9192000781439763
+road_density_km_km2,2005,13.094119712639593
+line_density_km_per_cell,2005,2.1001525317086345
+veg_group_Chaparral,2005,0.7394166389432794
+veg_group_Conifer Alpine,2005,1.5753917563625504
+veg_group_Conifer Forest,2005,1.865671312902722
+veg_group_Grassland,2005,4.854149901020398
+veg_group_Oak Woodland,2005,0.14996445485444565
+veg_group_Shrub,2005,1.5512729545088892
+dead_fuel_moisture_1000hr,2006,2.767766730058879
+dead_fuel_moisture_100hr,2006,1.0767597900180033
+max_air_temperature,2006,11.825284656512483
+max_relative_humidity,2006,1.0051816398789053
+min_air_temperature,2006,6.324781086229859
+min_relative_humidity,2006,0.9944587598335172
+precipitation_amount,2006,1.0745788193181878
+specific_humidity,2006,0.9240642621525791
+surface_downwelling_shortwave_flux_in_air,2006,1.4497965306963772
+wind_speed,2006,0.7940105809030368
+SWE,2006,1.7563451921669488
+wind_direction_category_N,2006,5.347236193196153
+wind_direction_category_NE,2006,5.433842357005219
+wind_direction_category_E,2006,5.415537524725849
+wind_direction_category_SE,2006,5.494002497934513
+wind_direction_category_S,2006,5.04150900515318
+wind_direction_category_SW,2006,5.068210545162224
+wind_direction_category_W,2006,5.212982684851092
+wind_direction_category_NW,2006,5.406956486373395
+LAI,2006,1.0424957444199625
+slope_max,2006,0.9707223617510488
+road_density_km_km2,2006,14.315396196645917
+line_density_km_per_cell,2006,2.0178989136191885
+veg_group_Chaparral,2006,0.7725142595352964
+veg_group_Conifer Alpine,2006,0.7412347435795917
+veg_group_Conifer Forest,2006,1.6250641919018687
+veg_group_Grassland,2006,4.5354196159222555
+veg_group_Oak Woodland,2006,0.462528904461846
+veg_group_Shrub,2006,1.1034197259926235
+dead_fuel_moisture_1000hr,2007,2.7640462438480244
+dead_fuel_moisture_100hr,2007,1.1163965584968534
+max_air_temperature,2007,11.597855721961539
+max_relative_humidity,2007,0.8358289932235509
+min_air_temperature,2007,7.564146035999317
+min_relative_humidity,2007,0.8569010811141431
+precipitation_amount,2007,1.2461717641845285
+specific_humidity,2007,0.7624564958671014
+surface_downwelling_shortwave_flux_in_air,2007,1.2290260935693527
+wind_speed,2007,0.6382206321278665
+SWE,2007,1.1608311395213273
+wind_direction_category_N,2007,5.030937882017663
+wind_direction_category_NE,2007,5.565062426649886
+wind_direction_category_E,2007,5.985602733304787
+wind_direction_category_SE,2007,5.585263749848274
+wind_direction_category_S,2007,4.887163267481237
+wind_direction_category_SW,2007,4.945912359200312
+wind_direction_category_W,2007,5.260350588497393
+wind_direction_category_NW,2007,5.03557623687668
+LAI,2007,1.089517883774936
+slope_max,2007,0.9358099619885949
+road_density_km_km2,2007,14.70057310488209
+line_density_km_per_cell,2007,2.595105015686593
+veg_group_Chaparral,2007,0.801626114864135
+veg_group_Conifer Alpine,2007,0.6365948875896121
+veg_group_Conifer Forest,2007,1.7068555355264723
+veg_group_Grassland,2007,4.628817343353169
+veg_group_Oak Woodland,2007,0.22974497882380726
+veg_group_Shrub,2007,0.6076051697207543
+dead_fuel_moisture_1000hr,2008,2.175799682112362
+dead_fuel_moisture_100hr,2008,1.0046227365196165
+max_air_temperature,2008,8.863666295847624
+max_relative_humidity,2008,1.0580662901361488
+min_air_temperature,2008,8.759346440349066
+min_relative_humidity,2008,1.3077828189479004
+precipitation_amount,2008,1.5357220643836882
+specific_humidity,2008,0.9635362122225588
+surface_downwelling_shortwave_flux_in_air,2008,1.0798415419227685
+wind_speed,2008,0.7383332354681006
+SWE,2008,2.196629793389672
+wind_direction_category_N,2008,5.182464778785595
+wind_direction_category_NE,2008,4.9577687400055295
+wind_direction_category_E,2008,6.010378068297324
+wind_direction_category_SE,2008,5.931142020698344
+wind_direction_category_S,2008,5.2042723102695705
+wind_direction_category_SW,2008,5.3007041815413976
+wind_direction_category_W,2008,5.443235523816873
+wind_direction_category_NW,2008,5.4095413888126584
+LAI,2008,1.0480759495364877
+slope_max,2008,1.0678584379086846
+road_density_km_km2,2008,12.19386289849898
+line_density_km_per_cell,2008,2.4860653611377455
+veg_group_Chaparral,2008,0.7661264499232354
+veg_group_Conifer Alpine,2008,0.5511112729660784
+veg_group_Conifer Forest,2008,1.5231643591834452
+veg_group_Grassland,2008,6.146322546454896
+veg_group_Oak Woodland,2008,0.042143176488144286
+veg_group_Shrub,2008,1.0524154243755068
+dead_fuel_moisture_1000hr,2009,2.1118035692401116
+dead_fuel_moisture_100hr,2009,1.3418375284739215
+max_air_temperature,2009,7.357774760765504
+max_relative_humidity,2009,0.904124176580318
+min_air_temperature,2009,6.7439292465971725
+min_relative_humidity,2009,1.5345133173466563
+precipitation_amount,2009,2.215908262107272
+specific_humidity,2009,1.1000355258278973
+surface_downwelling_shortwave_flux_in_air,2009,1.4957633392940684
+wind_speed,2009,0.7117200236118288
+SWE,2009,2.6548067651721396
+wind_direction_category_N,2009,5.7427593059027915
+wind_direction_category_NE,2009,5.313846213098793
+wind_direction_category_E,2009,6.43506480444062
+wind_direction_category_SE,2009,6.523413917166568
+wind_direction_category_S,2009,5.880932211079072
+wind_direction_category_SW,2009,5.787102471880988
+wind_direction_category_W,2009,5.93625058390073
+wind_direction_category_NW,2009,6.26648123649809
+LAI,2009,1.1348363178445293
+slope_max,2009,1.2087081438776284
+road_density_km_km2,2009,12.597707634981106
+line_density_km_per_cell,2009,2.0633551661200107
+veg_group_Chaparral,2009,0.7230704159197815
+veg_group_Conifer Alpine,2009,0.6094709086307991
+veg_group_Conifer Forest,2009,1.6028698647246293
+veg_group_Grassland,2009,2.971489577045244
+veg_group_Oak Woodland,2009,0.22264092980138603
+veg_group_Shrub,2009,0.8077837820703455
+dead_fuel_moisture_1000hr,2010,1.717631082934486
+dead_fuel_moisture_100hr,2010,1.4906192474793478
+max_air_temperature,2010,5.885732491319422
+max_relative_humidity,2010,1.0018786704573945
+min_air_temperature,2010,4.617337202367765
+min_relative_humidity,2010,1.3567244663804743
+precipitation_amount,2010,3.7972671562127256
+specific_humidity,2010,1.0235011193284629
+surface_downwelling_shortwave_flux_in_air,2010,1.3700267395066181
+wind_speed,2010,0.7761751382530595
+SWE,2010,2.536015295550788
+wind_direction_category_N,2010,5.756131695958788
+wind_direction_category_NE,2010,5.533373631183226
+wind_direction_category_E,2010,6.08192759586927
+wind_direction_category_SE,2010,6.649557665030111
+wind_direction_category_S,2010,5.508047741000709
+wind_direction_category_SW,2010,5.965106049377504
+wind_direction_category_W,2010,6.286621787476163
+wind_direction_category_NW,2010,6.461135491534855
+LAI,2010,1.1049484948435229
+slope_max,2010,1.088515159507929
+road_density_km_km2,2010,12.977915828559233
+line_density_km_per_cell,2010,2.1119321928046415
+veg_group_Chaparral,2010,0.7337383118459382
+veg_group_Conifer Alpine,2010,0.31252384520199805
+veg_group_Conifer Forest,2010,1.354719311566271
+veg_group_Grassland,2010,4.033262373138755
+veg_group_Oak Woodland,2010,0.6883260280870356
+veg_group_Shrub,2010,1.7793081872235044
+dead_fuel_moisture_1000hr,2011,1.331817717081308
+dead_fuel_moisture_100hr,2011,1.4580915593365187
+max_air_temperature,2011,6.358164951375725
+max_relative_humidity,2011,0.8042197995117131
+min_air_temperature,2011,4.679240031925341
+min_relative_humidity,2011,1.4921024280889372
+precipitation_amount,2011,3.710547524810463
+specific_humidity,2011,1.1872397038007263
+surface_downwelling_shortwave_flux_in_air,2011,1.621742168233292
+wind_speed,2011,0.8989079583001031
+SWE,2011,2.381547639814039
+wind_direction_category_N,2011,6.414273394525793
+wind_direction_category_NE,2011,5.685912107287413
+wind_direction_category_E,2011,6.096534426859958
+wind_direction_category_SE,2011,6.802057200975644
+wind_direction_category_S,2011,6.265228751109069
+wind_direction_category_SW,2011,5.79472404925389
+wind_direction_category_W,2011,6.523320322949886
+wind_direction_category_NW,2011,6.7281029991367
+LAI,2011,1.135612872353125
+slope_max,2011,1.0716608124593896
+road_density_km_km2,2011,11.992039354809975
+line_density_km_per_cell,2011,1.9062968485264866
+veg_group_Chaparral,2011,1.0419537820200655
+veg_group_Conifer Alpine,2011,0.30757220543869657
+veg_group_Conifer Forest,2011,1.7895071635099609
+veg_group_Grassland,2011,3.3432377392360837
+veg_group_Oak Woodland,2011,0.591021493863871
+veg_group_Shrub,2011,0.5873229934058264
+dead_fuel_moisture_1000hr,2012,1.2152581622447634
+dead_fuel_moisture_100hr,2012,1.5862138967084534
+max_air_temperature,2012,5.756172304530148
+max_relative_humidity,2012,1.0010722419500302
+min_air_temperature,2012,2.877575157653788
+min_relative_humidity,2012,1.1134166053216592
+precipitation_amount,2012,4.853234426867691
+specific_humidity,2012,0.8233950194450733
+surface_downwelling_shortwave_flux_in_air,2012,1.676695750345282
+wind_speed,2012,0.811408154178665
+SWE,2012,2.3795007685815706
+wind_direction_category_N,2012,6.785499334087103
+wind_direction_category_NE,2012,5.728534161206686
+wind_direction_category_E,2012,5.466820305949479
+wind_direction_category_SE,2012,7.164433273269229
+wind_direction_category_S,2012,5.958782376963203
+wind_direction_category_SW,2012,7.294370079703691
+wind_direction_category_W,2012,5.996078365710515
+wind_direction_category_NW,2012,6.672646575984264
+LAI,2012,1.0480693286715466
+slope_max,2012,1.004161844891163
+road_density_km_km2,2012,11.222013637454676
+line_density_km_per_cell,2012,2.16024460943332
+veg_group_Chaparral,2012,1.7537240518237807
+veg_group_Conifer Alpine,2012,0.7994065168663708
+veg_group_Conifer Forest,2012,1.2171352756595795
+veg_group_Grassland,2012,3.889770395626818
+veg_group_Oak Woodland,2012,0.6909381610706575
+veg_group_Shrub,2012,1.0534292178007953
+dead_fuel_moisture_1000hr,2013,1.347658803174794
+dead_fuel_moisture_100hr,2013,2.1266966848788322
+max_air_temperature,2013,3.1652906376461187
+max_relative_humidity,2013,0.8789015611575517
+min_air_temperature,2013,3.100831893748673
+min_relative_humidity,2013,1.4062467957616545
+precipitation_amount,2013,4.3288361700781515
+specific_humidity,2013,0.8889178031962609
+surface_downwelling_shortwave_flux_in_air,2013,1.5258253848226824
+wind_speed,2013,0.7973607998126003
+SWE,2013,2.429191770031354
+wind_direction_category_N,2013,7.346632692355505
+wind_direction_category_NE,2013,5.7389291119953665
+wind_direction_category_E,2013,6.3700587819870655
+wind_direction_category_SE,2013,7.005502780530938
+wind_direction_category_S,2013,6.857730508317975
+wind_direction_category_SW,2013,6.950607851253093
+wind_direction_category_W,2013,6.951766838103911
+wind_direction_category_NW,2013,7.889751315451962
+LAI,2013,1.1373008788342251
+slope_max,2013,1.0500971387172573
+road_density_km_km2,2013,9.546161318217761
+line_density_km_per_cell,2013,1.936814798541714
+veg_group_Chaparral,2013,1.6765728728639337
+veg_group_Conifer Alpine,2013,1.7390350204552503
+veg_group_Conifer Forest,2013,2.01937570977098
+veg_group_Grassland,2013,2.3019736467064758
+veg_group_Oak Woodland,2013,1.0062014775648704
+veg_group_Shrub,2013,0.47972895402304444
+dead_fuel_moisture_1000hr,2014,1.567095363074668
+dead_fuel_moisture_100hr,2014,1.9781261309959315
+max_air_temperature,2014,4.641692129232143
+max_relative_humidity,2014,0.9746067702357047
+min_air_temperature,2014,3.411426887721611
+min_relative_humidity,2014,1.1244606772780734
+precipitation_amount,2014,4.043219779411988
+specific_humidity,2014,1.0076075164505445
+surface_downwelling_shortwave_flux_in_air,2014,1.8532905563599922
+wind_speed,2014,0.8483179871013597
+SWE,2014,2.0108243785128024
+wind_direction_category_N,2014,6.43482096287602
+wind_direction_category_NE,2014,6.533156938565519
+wind_direction_category_E,2014,6.689979340821053
+wind_direction_category_SE,2014,6.220881102409116
+wind_direction_category_S,2014,6.552962086841628
+wind_direction_category_SW,2014,7.130367270683714
+wind_direction_category_W,2014,7.312618048866649
+wind_direction_category_NW,2014,7.185195720851438
+LAI,2014,1.2288693374359234
+slope_max,2014,1.1728653543533076
+road_density_km_km2,2014,9.863657832404444
+line_density_km_per_cell,2014,1.4950023047651098
+veg_group_Chaparral,2014,1.022258105398559
+veg_group_Conifer Alpine,2014,1.2308201965640302
+veg_group_Conifer Forest,2014,1.7442654571025822
+veg_group_Grassland,2014,3.557205116649811
+veg_group_Oak Woodland,2014,0.3179412168890224
+veg_group_Shrub,2014,0.8464654301472547
+dead_fuel_moisture_1000hr,2015,2.0997216679419366
+dead_fuel_moisture_100hr,2015,2.1658985548217924
+max_air_temperature,2015,3.812377391841166
+max_relative_humidity,2015,1.2847912775136578
+min_air_temperature,2015,5.2460000697515845
+min_relative_humidity,2015,1.1832687428795559
+precipitation_amount,2015,3.013425323069431
+specific_humidity,2015,1.161084251490665
+surface_downwelling_shortwave_flux_in_air,2015,1.778546831774196
+wind_speed,2015,0.9990777080040106
+SWE,2015,1.5715603175880917
+wind_direction_category_N,2015,6.733486396994748
+wind_direction_category_NE,2015,6.458771383210654
+wind_direction_category_E,2015,5.6364132689169795
+wind_direction_category_SE,2015,5.773728323640076
+wind_direction_category_S,2015,5.893997286258454
+wind_direction_category_SW,2015,6.650533172024135
+wind_direction_category_W,2015,6.804908375861536
+wind_direction_category_NW,2015,6.130417069966811
+LAI,2015,1.445740944734567
+slope_max,2015,1.2003134292833155
+road_density_km_km2,2015,11.368400708291526
+line_density_km_per_cell,2015,1.8278330970753576
+veg_group_Chaparral,2015,1.2070787868570052
+veg_group_Conifer Alpine,2015,0.7756301544521694
+veg_group_Conifer Forest,2015,1.34334771892669
+veg_group_Grassland,2015,4.924036635346052
+veg_group_Oak Woodland,2015,0.24602230266937133
+veg_group_Shrub,2015,1.2635888088144653
+dead_fuel_moisture_1000hr,2016,2.2645833128163124
+dead_fuel_moisture_100hr,2016,2.1332080799681714
+max_air_temperature,2016,5.410746193701042
+max_relative_humidity,2016,1.158929579248577
+min_air_temperature,2016,3.624303450788424
+min_relative_humidity,2016,1.058953017034841
+precipitation_amount,2016,2.2987480564754383
+specific_humidity,2016,0.9831238960001902
+surface_downwelling_shortwave_flux_in_air,2016,1.8335927620836394
+wind_speed,2016,0.9399394734256789
+SWE,2016,1.3069854587171919
+wind_direction_category_N,2016,6.849949542347881
+wind_direction_category_NE,2016,6.504326492859259
+wind_direction_category_E,2016,5.633892778196648
+wind_direction_category_SE,2016,5.4368240622339385
+wind_direction_category_S,2016,5.002710715076274
+wind_direction_category_SW,2016,5.9540412266435645
+wind_direction_category_W,2016,6.315133451164858
+wind_direction_category_NW,2016,6.119610679693333
+LAI,2016,1.575431622346795
+slope_max,2016,1.0928884589495091
+road_density_km_km2,2016,14.02442265335394
+line_density_km_per_cell,2016,1.9009898748827732
+veg_group_Chaparral,2016,0.8286926410405786
+veg_group_Conifer Alpine,2016,1.3666007642959828
+veg_group_Conifer Forest,2016,1.1650641342491386
+veg_group_Grassland,2016,5.454203202748685
+veg_group_Oak Woodland,2016,0.8755479663315927
+veg_group_Shrub,2016,0.8865564533257426
+dead_fuel_moisture_1000hr,2017,1.9929275966554318
+dead_fuel_moisture_100hr,2017,2.0726259853685285
+max_air_temperature,2017,6.2384873371025265
+max_relative_humidity,2017,1.382286389526707
+min_air_temperature,2017,2.846601476880778
+min_relative_humidity,2017,1.1513805224128841
+precipitation_amount,2017,1.830655408567774
+specific_humidity,2017,1.0328877960091818
+surface_downwelling_shortwave_flux_in_air,2017,2.0845381576171182
+wind_speed,2017,0.9824297757206034
+SWE,2017,1.943010490284977
+wind_direction_category_N,2017,6.392885646903746
+wind_direction_category_NE,2017,6.704621840162267
+wind_direction_category_E,2017,5.677405797360964
+wind_direction_category_SE,2017,5.5098512345925
+wind_direction_category_S,2017,4.797845839598988
+wind_direction_category_SW,2017,5.867221512377198
+wind_direction_category_W,2017,6.366343176254033
+wind_direction_category_NW,2017,5.9727605534979915
+LAI,2017,1.4964077989917675
+slope_max,2017,1.026033853820819
+road_density_km_km2,2017,13.200528840415691
+line_density_km_per_cell,2017,1.7308782611450861
+veg_group_Chaparral,2017,0.8468924053129845
+veg_group_Conifer Alpine,2017,1.0946603641938242
+veg_group_Conifer Forest,2017,0.8739608137836258
+veg_group_Grassland,2017,7.589988265030115
+veg_group_Oak Woodland,2017,0.21595952692698595
+veg_group_Shrub,2017,1.0779233334849012
+dead_fuel_moisture_1000hr,2018,2.512710409677462
+dead_fuel_moisture_100hr,2018,2.0531191497193286
+max_air_temperature,2018,5.443868759998241
+max_relative_humidity,2018,0.9998180085170322
+min_air_temperature,2018,2.84202165107009
+min_relative_humidity,2018,1.1347379441861292
+precipitation_amount,2018,2.0057230094438543
+specific_humidity,2018,1.0475430944119135
+surface_downwelling_shortwave_flux_in_air,2018,1.8977497851620304
+wind_speed,2018,0.9956290537376599
+SWE,2018,1.5740581622514014
+wind_direction_category_N,2018,6.28504535833465
+wind_direction_category_NE,2018,6.872908998257934
+wind_direction_category_E,2018,6.044652755929608
+wind_direction_category_SE,2018,5.791544728496729
+wind_direction_category_S,2018,5.125039538451792
+wind_direction_category_SW,2018,5.452438185835183
+wind_direction_category_W,2018,5.724523735380313
+wind_direction_category_NW,2018,5.690683294235524
+LAI,2018,1.3960659016546793
+slope_max,2018,0.9895506952584444
+road_density_km_km2,2018,16.312556261407565
+line_density_km_per_cell,2018,2.0326394663967178
+veg_group_Chaparral,2018,0.6043027864466455
+veg_group_Conifer Alpine,2018,1.5264020050915195
+veg_group_Conifer Forest,2018,1.2375145412293043
+veg_group_Grassland,2018,4.671486464221523
+veg_group_Oak Woodland,2018,0.520954852226937
+veg_group_Shrub,2018,1.2147114029697887
+dead_fuel_moisture_1000hr,2019,2.2724645625162037
+dead_fuel_moisture_100hr,2019,2.158873052751135
+max_air_temperature,2019,6.303564288588157
+max_relative_humidity,2019,1.0161578007665624
+min_air_temperature,2019,4.2930594178010715
+min_relative_humidity,2019,0.9439781194858807
+precipitation_amount,2019,1.3379737190810417
+specific_humidity,2019,1.2630771195962172
+surface_downwelling_shortwave_flux_in_air,2019,1.8698162864798766
+wind_speed,2019,1.1038829054066113
+SWE,2019,1.3298941035820653
+wind_direction_category_N,2019,5.892350714309701
+wind_direction_category_NE,2019,6.275308875601841
+wind_direction_category_E,2019,6.210344786179364
+wind_direction_category_SE,2019,5.734011584814673
+wind_direction_category_S,2019,5.256526451250578
+wind_direction_category_SW,2019,5.23858658217098
+wind_direction_category_W,2019,6.240705618959004
+wind_direction_category_NW,2019,5.908303157685722
+LAI,2019,1.7393128864474043
+slope_max,2019,1.245974904266121
+road_density_km_km2,2019,15.119138125877823
+line_density_km_per_cell,2019,2.228525023522092
+veg_group_Chaparral,2019,0.7563881508547287
+veg_group_Conifer Alpine,2019,0.9377853665458091
+veg_group_Conifer Forest,2019,0.5767330612854449
+veg_group_Grassland,2019,5.02209007281457
+veg_group_Oak Woodland,2019,0.9496267140764536
+veg_group_Shrub,2019,0.7755465472828688
+dead_fuel_moisture_1000hr,2020,2.922738565723739
+dead_fuel_moisture_100hr,2020,1.2885432933664949
+max_air_temperature,2020,5.749199995456851
+max_relative_humidity,2020,0.9806727776174985
+min_air_temperature,2020,2.8865181916538787
+min_relative_humidity,2020,0.9300139840969119
+precipitation_amount,2020,2.246753237629949
+specific_humidity,2020,0.9797752141342881
+surface_downwelling_shortwave_flux_in_air,2020,1.606099472755775
+wind_speed,2020,1.09815754328498
+SWE,2020,1.38049419315661
+wind_direction_category_N,2020,6.358760754762557
+wind_direction_category_NE,2020,5.847952223830586
+wind_direction_category_E,2020,5.8016591675236375
+wind_direction_category_SE,2020,5.0273309298395175
+wind_direction_category_S,2020,4.964919329101611
+wind_direction_category_SW,2020,5.632173487207534
+wind_direction_category_W,2020,5.754836995526425
+wind_direction_category_NW,2020,6.740049801918365
+LAI,2020,1.6361181116551178
+slope_max,2020,1.0570496989668507
+road_density_km_km2,2020,15.38371050873179
+line_density_km_per_cell,2020,2.1589930985040016
+veg_group_Chaparral,2020,1.4471545502658159
+veg_group_Conifer Alpine,2020,1.2395418679804278
+veg_group_Conifer Forest,2020,1.308494425498677
+veg_group_Grassland,2020,5.552806133667999
+veg_group_Oak Woodland,2020,0.9949512141595749
+veg_group_Shrub,2020,1.0245312319825386

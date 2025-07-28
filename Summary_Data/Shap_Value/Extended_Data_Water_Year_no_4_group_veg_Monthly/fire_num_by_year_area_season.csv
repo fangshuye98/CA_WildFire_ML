@@ -1,0 +1,361 @@
+year,area,season,fire_num
+2001,All,summer,1639
+2001,All,winter,460
+2001,All,all,3052
+2001,North Coast,summer,262
+2001,North Coast,winter,66
+2001,North Coast,all,492
+2001,Central Coast,summer,633
+2001,Central Coast,winter,128
+2001,Central Coast,all,1057
+2001,North Interior,summer,68
+2001,North Interior,winter,9
+2001,North Interior,all,134
+2001,Sierra Nevada,summer,365
+2001,Sierra Nevada,winter,93
+2001,Sierra Nevada,all,675
+2001,South Coast,summer,311
+2001,South Coast,winter,164
+2001,South Coast,all,694
+2002,All,summer,1484
+2002,All,winter,458
+2002,All,all,3068
+2002,North Coast,summer,208
+2002,North Coast,winter,68
+2002,North Coast,all,416
+2002,Central Coast,summer,591
+2002,Central Coast,winter,128
+2002,Central Coast,all,1039
+2002,North Interior,summer,68
+2002,North Interior,winter,16
+2002,North Interior,all,134
+2002,Sierra Nevada,summer,334
+2002,Sierra Nevada,winter,98
+2002,Sierra Nevada,all,685
+2002,South Coast,summer,283
+2002,South Coast,winter,148
+2002,South Coast,all,794
+2003,All,summer,1530
+2003,All,winter,491
+2003,All,all,2733
+2003,North Coast,summer,229
+2003,North Coast,winter,101
+2003,North Coast,all,417
+2003,Central Coast,summer,612
+2003,Central Coast,winter,129
+2003,Central Coast,all,948
+2003,North Interior,summer,83
+2003,North Interior,winter,26
+2003,North Interior,all,162
+2003,Sierra Nevada,summer,299
+2003,Sierra Nevada,winter,133
+2003,Sierra Nevada,all,588
+2003,South Coast,summer,307
+2003,South Coast,winter,102
+2003,South Coast,all,618
+2004,All,summer,1451
+2004,All,winter,491
+2004,All,all,3114
+2004,North Coast,summer,232
+2004,North Coast,winter,79
+2004,North Coast,all,461
+2004,Central Coast,summer,586
+2004,Central Coast,winter,184
+2004,Central Coast,all,1222
+2004,North Interior,summer,73
+2004,North Interior,winter,24
+2004,North Interior,all,139
+2004,Sierra Nevada,summer,305
+2004,Sierra Nevada,winter,101
+2004,Sierra Nevada,all,685
+2004,South Coast,summer,255
+2004,South Coast,winter,103
+2004,South Coast,all,607
+2005,All,summer,1537
+2005,All,winter,276
+2005,All,all,2609
+2005,North Coast,summer,149
+2005,North Coast,winter,57
+2005,North Coast,all,319
+2005,Central Coast,summer,670
+2005,Central Coast,winter,86
+2005,Central Coast,all,1025
+2005,North Interior,summer,64
+2005,North Interior,winter,12
+2005,North Interior,all,109
+2005,Sierra Nevada,summer,275
+2005,Sierra Nevada,winter,60
+2005,Sierra Nevada,all,484
+2005,South Coast,summer,379
+2005,South Coast,winter,61
+2005,South Coast,all,672
+2006,All,summer,1629
+2006,All,winter,542
+2006,All,all,3179
+2006,North Coast,summer,156
+2006,North Coast,winter,62
+2006,North Coast,all,347
+2006,Central Coast,summer,733
+2006,Central Coast,winter,242
+2006,Central Coast,all,1306
+2006,North Interior,summer,54
+2006,North Interior,winter,15
+2006,North Interior,all,111
+2006,Sierra Nevada,summer,299
+2006,Sierra Nevada,winter,93
+2006,Sierra Nevada,all,588
+2006,South Coast,summer,387
+2006,South Coast,winter,130
+2006,South Coast,all,827
+2007,All,summer,1761
+2007,All,winter,619
+2007,All,all,3924
+2007,North Coast,summer,251
+2007,North Coast,winter,81
+2007,North Coast,all,539
+2007,Central Coast,summer,718
+2007,Central Coast,winter,197
+2007,Central Coast,all,1481
+2007,North Interior,summer,91
+2007,North Interior,winter,30
+2007,North Interior,all,206
+2007,Sierra Nevada,summer,390
+2007,Sierra Nevada,winter,112
+2007,Sierra Nevada,all,805
+2007,South Coast,summer,311
+2007,South Coast,winter,199
+2007,South Coast,all,893
+2008,All,summer,1448
+2008,All,winter,715
+2008,All,all,3492
+2008,North Coast,summer,226
+2008,North Coast,winter,85
+2008,North Coast,all,497
+2008,Central Coast,summer,565
+2008,Central Coast,winter,233
+2008,Central Coast,all,1288
+2008,North Interior,summer,98
+2008,North Interior,winter,38
+2008,North Interior,all,203
+2008,Sierra Nevada,summer,297
+2008,Sierra Nevada,winter,153
+2008,Sierra Nevada,all,759
+2008,South Coast,summer,262
+2008,South Coast,winter,206
+2008,South Coast,all,745
+2009,All,summer,1260
+2009,All,winter,461
+2009,All,all,2665
+2009,North Coast,summer,192
+2009,North Coast,winter,54
+2009,North Coast,all,376
+2009,Central Coast,summer,426
+2009,Central Coast,winter,142
+2009,Central Coast,all,869
+2009,North Interior,summer,73
+2009,North Interior,winter,18
+2009,North Interior,all,140
+2009,Sierra Nevada,summer,280
+2009,Sierra Nevada,winter,87
+2009,Sierra Nevada,all,558
+2009,South Coast,summer,289
+2009,South Coast,winter,160
+2009,South Coast,all,722
+2010,All,summer,1185
+2010,All,winter,394
+2010,All,all,2244
+2010,North Coast,summer,166
+2010,North Coast,winter,57
+2010,North Coast,all,287
+2010,Central Coast,summer,441
+2010,Central Coast,winter,101
+2010,Central Coast,all,745
+2010,North Interior,summer,63
+2010,North Interior,winter,11
+2010,North Interior,all,100
+2010,Sierra Nevada,summer,231
+2010,Sierra Nevada,winter,103
+2010,Sierra Nevada,all,459
+2010,South Coast,summer,284
+2010,South Coast,winter,122
+2010,South Coast,all,653
+2011,All,summer,1119
+2011,All,winter,298
+2011,All,all,2162
+2011,North Coast,summer,136
+2011,North Coast,winter,37
+2011,North Coast,all,263
+2011,Central Coast,summer,443
+2011,Central Coast,winter,103
+2011,Central Coast,all,810
+2011,North Interior,summer,42
+2011,North Interior,winter,12
+2011,North Interior,all,97
+2011,Sierra Nevada,summer,209
+2011,Sierra Nevada,winter,52
+2011,Sierra Nevada,all,397
+2011,South Coast,summer,289
+2011,South Coast,winter,94
+2011,South Coast,all,595
+2012,All,summer,1101
+2012,All,winter,511
+2012,All,all,2598
+2012,North Coast,summer,168
+2012,North Coast,winter,67
+2012,North Coast,all,356
+2012,Central Coast,summer,414
+2012,Central Coast,winter,153
+2012,Central Coast,all,882
+2012,North Interior,summer,60
+2012,North Interior,winter,17
+2012,North Interior,all,123
+2012,Sierra Nevada,summer,258
+2012,Sierra Nevada,winter,153
+2012,Sierra Nevada,all,646
+2012,South Coast,summer,201
+2012,South Coast,winter,121
+2012,South Coast,all,591
+2013,All,summer,965
+2013,All,winter,322
+2013,All,all,2340
+2013,North Coast,summer,160
+2013,North Coast,winter,43
+2013,North Coast,all,360
+2013,Central Coast,summer,367
+2013,Central Coast,winter,84
+2013,Central Coast,all,810
+2013,North Interior,summer,49
+2013,North Interior,winter,19
+2013,North Interior,all,114
+2013,Sierra Nevada,summer,217
+2013,Sierra Nevada,winter,74
+2013,Sierra Nevada,all,492
+2013,South Coast,summer,172
+2013,South Coast,winter,102
+2013,South Coast,all,564
+2014,All,summer,919
+2014,All,winter,590
+2014,All,all,2573
+2014,North Coast,summer,170
+2014,North Coast,winter,99
+2014,North Coast,all,438
+2014,Central Coast,summer,323
+2014,Central Coast,winter,216
+2014,Central Coast,all,900
+2014,North Interior,summer,36
+2014,North Interior,winter,29
+2014,North Interior,all,119
+2014,Sierra Nevada,summer,235
+2014,Sierra Nevada,winter,145
+2014,Sierra Nevada,all,613
+2014,South Coast,summer,155
+2014,South Coast,winter,101
+2014,South Coast,all,503
+2015,All,summer,903
+2015,All,winter,261
+2015,All,all,2115
+2015,North Coast,summer,165
+2015,North Coast,winter,38
+2015,North Coast,all,368
+2015,Central Coast,summer,343
+2015,Central Coast,winter,64
+2015,Central Coast,all,742
+2015,North Interior,summer,44
+2015,North Interior,winter,6
+2015,North Interior,all,85
+2015,Sierra Nevada,summer,189
+2015,Sierra Nevada,winter,63
+2015,Sierra Nevada,all,493
+2015,South Coast,summer,162
+2015,South Coast,winter,90
+2015,South Coast,all,427
+2016,All,summer,1113
+2016,All,winter,312
+2016,All,all,2246
+2016,North Coast,summer,187
+2016,North Coast,winter,60
+2016,North Coast,all,376
+2016,Central Coast,summer,420
+2016,Central Coast,winter,104
+2016,Central Coast,all,793
+2016,North Interior,summer,50
+2016,North Interior,winter,15
+2016,North Interior,all,117
+2016,Sierra Nevada,summer,278
+2016,Sierra Nevada,winter,59
+2016,Sierra Nevada,all,526
+2016,South Coast,summer,178
+2016,South Coast,winter,74
+2016,South Coast,all,434
+2017,All,summer,1208
+2017,All,winter,296
+2017,All,all,2243
+2017,North Coast,summer,159
+2017,North Coast,winter,22
+2017,North Coast,all,263
+2017,Central Coast,summer,473
+2017,Central Coast,winter,91
+2017,Central Coast,all,828
+2017,North Interior,summer,69
+2017,North Interior,winter,14
+2017,North Interior,all,129
+2017,Sierra Nevada,summer,276
+2017,Sierra Nevada,winter,68
+2017,Sierra Nevada,all,475
+2017,South Coast,summer,231
+2017,South Coast,winter,101
+2017,South Coast,all,548
+2018,All,summer,1035
+2018,All,winter,522
+2018,All,all,2422
+2018,North Coast,summer,134
+2018,North Coast,winter,59
+2018,North Coast,all,292
+2018,Central Coast,summer,401
+2018,Central Coast,winter,162
+2018,Central Coast,all,886
+2018,North Interior,summer,58
+2018,North Interior,winter,28
+2018,North Interior,all,124
+2018,Sierra Nevada,summer,246
+2018,Sierra Nevada,winter,108
+2018,Sierra Nevada,all,564
+2018,South Coast,summer,196
+2018,South Coast,winter,165
+2018,South Coast,all,556
+2019,All,summer,624
+2019,All,winter,471
+2019,All,all,1528
+2019,North Coast,summer,79
+2019,North Coast,winter,80
+2019,North Coast,all,213
+2019,Central Coast,summer,185
+2019,Central Coast,winter,172
+2019,Central Coast,all,491
+2019,North Interior,summer,25
+2019,North Interior,winter,19
+2019,North Interior,all,63
+2019,Sierra Nevada,summer,180
+2019,Sierra Nevada,winter,103
+2019,Sierra Nevada,all,379
+2019,South Coast,summer,155
+2019,South Coast,winter,97
+2019,South Coast,all,382
+2020,All,summer,842
+2020,All,winter,321
+2020,All,all,1814
+2020,North Coast,summer,103
+2020,North Coast,winter,47
+2020,North Coast,all,228
+2020,Central Coast,summer,238
+2020,Central Coast,winter,72
+2020,Central Coast,all,509
+2020,North Interior,summer,46
+2020,North Interior,winter,11
+2020,North Interior,all,99
+2020,Sierra Nevada,summer,212
+2020,Sierra Nevada,winter,90
+2020,Sierra Nevada,all,466
+2020,South Coast,summer,243
+2020,South Coast,winter,101
+2020,South Coast,all,512
